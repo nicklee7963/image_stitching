@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Boston_skyline_from_Cambridge_November_2015_panorama_1.jpg,SIFT,467.5682,0.9148440846751406,5.625336672249173,0.9944122710664791
+城市建築,Boston_skyline_from_Cambridge_November_2015_panorama_1.jpg,ORB,599.8908,0.8470984839840625,18.528322261179326,0.9950855611441111
+城市建築,Boston_skyline_from_Cambridge_November_2015_panorama_1.jpg,LoFTR,413.893,0.8831569991162288,8.745996431409232,0.9914724998327376

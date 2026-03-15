@@ -1,0 +1,7 @@
+﻿Base_Image,Target_Image,Parallax_Angle,Good_Matches,RANSAC_Inliers,Status
+40.jpg,45.jpg,5,858,438,Success
+40.jpg,50.jpg,10,489,201,Success
+40.jpg,55.jpg,15,154,49,Success
+40.jpg,60.jpg,20,50,16,Collapsed (Global H Blowup)
+40.jpg,65.jpg,25,46,18,Success
+40.jpg,70.jpg,30,27,16,Success

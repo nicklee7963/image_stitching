@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_Land_Near_Wester_Kerrowgair_-_geograph.org.uk_-_189621.jpg,SIFT,2.2970805,0.9983078978454429,0.8356377272746388,0.9999877567528711
+農業與植物,Agricultural_Land_Near_Wester_Kerrowgair_-_geograph.org.uk_-_189621.jpg,ORB,42.935,0.9791806185484944,0.4866254035014441,0.9999724242696552
+農業與植物,Agricultural_Land_Near_Wester_Kerrowgair_-_geograph.org.uk_-_189621.jpg,LoFTR,32.42648,0.98575739397861,0.569414571276242,0.99999985813343

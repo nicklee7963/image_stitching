@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_Barnsley^_-_geograph.org.uk_-_2375139.jpg,SIFT,1.1385099,0.9938870555326736,0.08192906303634176,0.9999998000784531
+農業與植物,Agricultural_Barnsley^_-_geograph.org.uk_-_2375139.jpg,ORB,9569.914,0.3150798665730564,271.1001548053198,-0.9936454474858339
+農業與植物,Agricultural_Barnsley^_-_geograph.org.uk_-_2375139.jpg,LoFTR,14.026703,0.9810687220350124,1.2831537346589232,0.9999825224755929

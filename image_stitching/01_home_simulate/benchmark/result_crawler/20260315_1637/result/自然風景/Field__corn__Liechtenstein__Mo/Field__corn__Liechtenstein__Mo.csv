@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Field__corn__Liechtenstein__Mountains__Alps__Vaduz__sky__clouds__landscape.jpg,SIFT,0.781421,0.9988047214343754,4.418367383113513,0.9999295116350616
+自然風景,Field__corn__Liechtenstein__Mountains__Alps__Vaduz__sky__clouds__landscape.jpg,ORB,682.59216,0.8795193866338633,68.60546366481182,-0.24244683904558095
+自然風景,Field__corn__Liechtenstein__Mountains__Alps__Vaduz__sky__clouds__landscape.jpg,LoFTR,63.890854,0.9852903795604339,3.2589459103594325,0.9999927103874142

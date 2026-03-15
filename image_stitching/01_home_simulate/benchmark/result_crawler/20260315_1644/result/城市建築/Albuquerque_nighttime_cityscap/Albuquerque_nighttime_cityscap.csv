@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Albuquerque-nighttime-cityscape-from-Sandia-Crest.jpg,SIFT,0.58667105,0.9971161784961002,0.9543998511472424,0.9999989343817374
+城市建築,Albuquerque-nighttime-cityscape-from-Sandia-Crest.jpg,ORB,166.48378,0.9542067413504083,3.3473881233707794,0.9988593132726216
+城市建築,Albuquerque-nighttime-cityscape-from-Sandia-Crest.jpg,LoFTR,156.09592,0.981368959338604,2.007620812528707,0.9998522360351739
