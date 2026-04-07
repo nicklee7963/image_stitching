@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Jacob_Pynas_-_Mountain_Landscape_with_Narcissus_(1628).jpg,SIFT,1.5817587,0.9975814131352178,0.24109546832340323,0.9999912232116427
+自然風景,Jacob_Pynas_-_Mountain_Landscape_with_Narcissus_(1628).jpg,ORB,59.34028,0.9827334630574397,0.49695803564667035,0.999964070294535
+自然風景,Jacob_Pynas_-_Mountain_Landscape_with_Narcissus_(1628).jpg,LoFTR,55.70428,0.9865319038623291,0.11010120755173201,0.999998540746618

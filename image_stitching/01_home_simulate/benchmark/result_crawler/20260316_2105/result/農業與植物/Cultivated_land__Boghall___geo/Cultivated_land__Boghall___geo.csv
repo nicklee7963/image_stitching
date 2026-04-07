@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land__Boghall_-_geograph.org.uk_-_2022495.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Cultivated_land__Boghall_-_geograph.org.uk_-_2022495.jpg,ORB,652.0796508789062,0.7335367982977634,164.67828548657747,0.5704281430401376
+農業與植物,Cultivated_land__Boghall_-_geograph.org.uk_-_2022495.jpg,LoFTR,57.14274978637695,0.9832775685414501,1.0354966604544913,0.9999613659258695

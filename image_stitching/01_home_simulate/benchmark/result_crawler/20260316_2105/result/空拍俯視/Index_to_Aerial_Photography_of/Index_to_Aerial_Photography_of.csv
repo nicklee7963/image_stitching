@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Index_to_Aerial_Photography_of_Washington_County__Arkansas_4_-_DPLA_-_242df81833ffa5cf1b893b13bbe309a1.jpg,SIFT,30689.12,0.45643546919492467,528.1462472010717,-0.993726215302187
+空拍俯視,Index_to_Aerial_Photography_of_Washington_County__Arkansas_4_-_DPLA_-_242df81833ffa5cf1b893b13bbe309a1.jpg,ORB,16070.139,0.6901143520816874,354.87602981220806,-0.9976683874146924
+空拍俯視,Index_to_Aerial_Photography_of_Washington_County__Arkansas_4_-_DPLA_-_242df81833ffa5cf1b893b13bbe309a1.jpg,LoFTR,247.03998,0.975369277881406,3.3386799117869166,0.9999900898813433

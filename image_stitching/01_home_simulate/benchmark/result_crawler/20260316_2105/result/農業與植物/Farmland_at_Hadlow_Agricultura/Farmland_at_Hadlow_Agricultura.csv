@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farmland_at_Hadlow_Agricultural_College_-_geograph.org.uk_-_2089025.jpg,SIFT,35442.344,0.25881333483986274,576.588779396146,0.8128097049262825
+農業與植物,Farmland_at_Hadlow_Agricultural_College_-_geograph.org.uk_-_2089025.jpg,ORB,34360.938,0.3538570185168966,619.8836931607435,0.8415322767236983
+農業與植物,Farmland_at_Hadlow_Agricultural_College_-_geograph.org.uk_-_2089025.jpg,LoFTR,37276.668,0.3582277530730345,357.29024137593683,0.8935909558763854

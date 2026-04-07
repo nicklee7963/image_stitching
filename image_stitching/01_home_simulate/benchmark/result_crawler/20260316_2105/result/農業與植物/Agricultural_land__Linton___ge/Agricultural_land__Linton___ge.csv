@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land__Linton_-_geograph.org.uk_-_2305667.jpg,SIFT,1.1808786,0.9914874336398427,0.16416352179049978,0.9999988775525201
+農業與植物,Agricultural_land__Linton_-_geograph.org.uk_-_2305667.jpg,ORB,2620.7056,0.09544659994891921,482.2436193967004,-0.879260069056204
+農業與植物,Agricultural_land__Linton_-_geograph.org.uk_-_2305667.jpg,LoFTR,17.770855,0.9834238283077109,1.4546870910303653,0.9999607789482522

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_at_Francesfield_-_geograph.org.uk_-_2339533.jpg,SIFT,101.66933,0.9864243346297314,4.955214123880163,0.9961143627201873
+農業與植物,Agricultural_land_at_Francesfield_-_geograph.org.uk_-_2339533.jpg,ORB,105.64818,0.979960081364912,3.047824231284342,0.9977267541479226
+農業與植物,Agricultural_land_at_Francesfield_-_geograph.org.uk_-_2339533.jpg,LoFTR,67.06425,0.9855956626417354,0.3212517377967953,0.9999572561191713

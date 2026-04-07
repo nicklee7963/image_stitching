@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Landscape_in_Peyriac-de-Mer__february_2018_(05).jpg,SIFT,1.7545412,0.996395198552973,2.487951531661007,0.99996514719563
+自然風景,Landscape_in_Peyriac-de-Mer__february_2018_(05).jpg,ORB,31.737127,0.9551765264117316,42.2503290289554,0.9759238312333204
+自然風景,Landscape_in_Peyriac-de-Mer__february_2018_(05).jpg,LoFTR,7.3687425,0.983571304099764,1.8399814951493831,0.9998832634172697

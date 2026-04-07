@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Arlington_House_-_looking_north_at_S_side_of_South_Slave_Quarters_-_2011.jpg,SIFT,4.172798,0.9971396580556472,0.2522596553354553,0.9999798611241455
+室內場景,Arlington_House_-_looking_north_at_S_side_of_South_Slave_Quarters_-_2011.jpg,ORB,101.387215,0.9713061914372335,0.6542443696733033,0.9996188616121129
+室內場景,Arlington_House_-_looking_north_at_S_side_of_South_Slave_Quarters_-_2011.jpg,LoFTR,76.178535,0.9836370898811848,0.10312535668933706,0.999992217434599

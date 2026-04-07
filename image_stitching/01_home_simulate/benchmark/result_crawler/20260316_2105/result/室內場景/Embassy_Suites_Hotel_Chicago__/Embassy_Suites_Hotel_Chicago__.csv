@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Embassy_Suites_Hotel_Chicago_-_Lombard_Oak_Brook_(DuPage_County__IL)_(2573055891).jpg,SIFT,43.313396,0.9928487977758657,2.1719166328342308,0.9995753781271087
+室內場景,Embassy_Suites_Hotel_Chicago_-_Lombard_Oak_Brook_(DuPage_County__IL)_(2573055891).jpg,ORB,159.13321,0.9422579161403559,3.8588471046270967,0.9993101385129389
+室內場景,Embassy_Suites_Hotel_Chicago_-_Lombard_Oak_Brook_(DuPage_County__IL)_(2573055891).jpg,LoFTR,220.71312,0.9652991994930328,7.564620976167851,0.9950509343782376

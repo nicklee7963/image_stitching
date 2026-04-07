@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_above_Salt_Lake__Fife_-_geograph.org.uk_-_5316083.jpg,SIFT,96.89007,0.987210868105605,6.088072954625877,0.9996487042347085
+農業與植物,Agricultural_land_above_Salt_Lake__Fife_-_geograph.org.uk_-_5316083.jpg,ORB,962.0613,0.8347879485067666,19.74644228230488,0.9994149855988561
+農業與植物,Agricultural_land_above_Salt_Lake__Fife_-_geograph.org.uk_-_5316083.jpg,LoFTR,65.35969,0.9841346240640013,0.23214191629013095,0.9999990928808512

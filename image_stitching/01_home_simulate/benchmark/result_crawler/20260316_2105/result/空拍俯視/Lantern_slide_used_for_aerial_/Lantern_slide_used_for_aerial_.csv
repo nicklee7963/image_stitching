@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Lantern_slide_used_for_aerial_photography_training_(16519302702).jpg,SIFT,9.200652,0.9972022121492828,0.344197551692182,0.9999938856326162
+空拍俯視,Lantern_slide_used_for_aerial_photography_training_(16519302702).jpg,ORB,568.9199,0.9268388939230843,2.889219421788258,0.99982615683409
+空拍俯視,Lantern_slide_used_for_aerial_photography_training_(16519302702).jpg,LoFTR,81.4829,0.9835734793182345,0.2646541042597493,0.9999993667743959

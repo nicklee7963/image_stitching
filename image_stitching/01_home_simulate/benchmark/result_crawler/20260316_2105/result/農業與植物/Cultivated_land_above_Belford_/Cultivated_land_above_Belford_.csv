@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land_above_Belford_-_geograph.org.uk_-_3191546.jpg,SIFT,59.200695,0.9889662427088408,0.9006851179618205,0.9998392844567736
+農業與植物,Cultivated_land_above_Belford_-_geograph.org.uk_-_3191546.jpg,ORB,490.64062,0.9557101875923097,7.0113030827012786,0.9934670573194339
+農業與植物,Cultivated_land_above_Belford_-_geograph.org.uk_-_3191546.jpg,LoFTR,149.02283,0.9775929212250781,1.0004981346261244,0.9999936360202262

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,C.1950._Oblique_aerial_photography_camera_in_plane._(35426411132).jpg,SIFT,35.689888,0.9907360161807766,1.9032868989281646,0.9998851846074321
+空拍俯視,C.1950._Oblique_aerial_photography_camera_in_plane._(35426411132).jpg,ORB,205.99847,0.9577899995002909,7.233988138709757,0.9988826867390899
+空拍俯視,C.1950._Oblique_aerial_photography_camera_in_plane._(35426411132).jpg,LoFTR,74.68619,0.9825249320813342,1.021615900038156,0.9999512367248008

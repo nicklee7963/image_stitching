@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Skyline_de_Chicago_desde_el_centro__Illinois__Estados_Unidos__2012-10-20__DD_13.jpg,SIFT,4.6496663,0.9897141798345647,0.794635863633684,0.999999381724397
+城市建築,Skyline_de_Chicago_desde_el_centro__Illinois__Estados_Unidos__2012-10-20__DD_13.jpg,ORB,245.77415,0.8849050305284247,18.500577997385708,0.9954536270887052
+城市建築,Skyline_de_Chicago_desde_el_centro__Illinois__Estados_Unidos__2012-10-20__DD_13.jpg,LoFTR,1797.8726,0.276944119257089,313.46863962898124,0.7154625103128448

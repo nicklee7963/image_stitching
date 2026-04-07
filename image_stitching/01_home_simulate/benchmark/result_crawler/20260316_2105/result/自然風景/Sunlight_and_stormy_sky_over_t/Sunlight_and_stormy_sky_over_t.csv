@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng__Laos.jpg,SIFT,38.27282,0.9875014889639111,2.0322263615212703,0.9999087910794482
+自然風景,Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng__Laos.jpg,ORB,595.0445,0.9137103761778147,14.888282456604308,0.9956743297207831
+自然風景,Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng__Laos.jpg,LoFTR,200.64737,0.9451382128378103,3.7290515897942944,0.9995821227728223

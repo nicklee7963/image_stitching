@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Canal_houses_and_Oude_Kerk_at_blue_hour_with_water_reflection_in_Damrak_Amsterdam_Netherlands.jpg,SIFT,20.42867,0.989267538533595,1.8773578178195927,0.9998444676368078
+城市建築,Canal_houses_and_Oude_Kerk_at_blue_hour_with_water_reflection_in_Damrak_Amsterdam_Netherlands.jpg,ORB,37.90925,0.9816910672391791,0.7054895251403441,0.9999999855093156
+城市建築,Canal_houses_and_Oude_Kerk_at_blue_hour_with_water_reflection_in_Damrak_Amsterdam_Netherlands.jpg,LoFTR,369.11133,0.8743904954260414,2.0878160786911595,0.9999140036233755

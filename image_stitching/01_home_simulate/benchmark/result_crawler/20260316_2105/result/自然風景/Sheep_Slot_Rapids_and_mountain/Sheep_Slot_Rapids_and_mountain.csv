@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Sheep_Slot_Rapids_and_mountain_landscape__Ivvavik_National_Park__YT.jpg,SIFT,3.3489466,0.9971590122777129,0.2296147522012329,0.9999575238273102
+自然風景,Sheep_Slot_Rapids_and_mountain_landscape__Ivvavik_National_Park__YT.jpg,ORB,109.90592,0.9424839663836099,0.25468454859655704,0.9999613824744927
+自然風景,Sheep_Slot_Rapids_and_mountain_landscape__Ivvavik_National_Park__YT.jpg,LoFTR,48.67573,0.9816439810283415,0.5836300357070993,0.9997858089728141

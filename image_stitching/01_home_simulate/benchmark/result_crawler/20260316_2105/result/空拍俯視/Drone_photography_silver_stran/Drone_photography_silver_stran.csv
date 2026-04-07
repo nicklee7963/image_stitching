@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Drone-photography-silver-strand-state-beach-san-diego.jpg,SIFT,2.0176747,0.9939930500814456,1.3489254216195696,0.9999914205837609
+空拍俯視,Drone-photography-silver-strand-state-beach-san-diego.jpg,ORB,86.74057,0.9731056762026709,0.9056402164303595,0.9999718032946552
+空拍俯視,Drone-photography-silver-strand-state-beach-san-diego.jpg,LoFTR,87.52217,0.9728462665166455,0.27736126369887687,0.9999994852793774

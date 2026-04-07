@@ -7,8 +7,8 @@ import pandas as pd
 # 1. 初始化與路徑設定
 # ==========================================
 # 假設此腳本執行於 01_home_simulate/personal_report/SIFT/
-IMG_DIR = "../../image/tv_desk"
-OUTPUT_DIR = "."
+IMG_DIR = "../../benchmark/image_simulation/multiple_translation"
+OUTPUT_DIR = "result_simulation/multiple_translation"
 CSV_PATH = os.path.join(OUTPUT_DIR, "sift_parallax_metrics.csv")
 
 BASE_IMG_NAME = "40.jpg"
@@ -20,7 +20,7 @@ if base_img is None:
     exit()
 
 # 測試的目標圖片列表
-TARGET_IMGS = [45, 50, 55, 60, 65, 70]
+TARGET_IMGS = list(range(45, 105, 5))
 results = []
 
 sift = cv2.SIFT_create()

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,1937._Insectary_set_up_by_Robert_L._Furniss_at_the_Pack_Forest__west_of_Mt._Rainier._La_Grande__Washington._(34605609350).jpg,SIFT,0.7824433,0.9977289803873333,0.372834766393176,0.9999981763085556
+室內場景,1937._Insectary_set_up_by_Robert_L._Furniss_at_the_Pack_Forest__west_of_Mt._Rainier._La_Grande__Washington._(34605609350).jpg,ORB,76.10333,0.9444825330534203,5.46266165368432,0.9999781254142057
+室內場景,1937._Insectary_set_up_by_Robert_L._Furniss_at_the_Pack_Forest__west_of_Mt._Rainier._La_Grande__Washington._(34605609350).jpg,LoFTR,39.01463,0.9849669767147563,0.2944341891589352,0.9999992671240214

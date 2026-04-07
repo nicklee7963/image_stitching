@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Cityscape__Aundh__Pune__Maharashtra__India.jpg,SIFT,65025.0,0.0,500.0,0.0
+城市建築,Cityscape__Aundh__Pune__Maharashtra__India.jpg,ORB,8192.111328125,0.48816463889309486,171.2577486708107,0.9784937489446555
+城市建築,Cityscape__Aundh__Pune__Maharashtra__India.jpg,LoFTR,147.63577270507812,0.9670757129424654,1.7791998274372827,0.999995223679195

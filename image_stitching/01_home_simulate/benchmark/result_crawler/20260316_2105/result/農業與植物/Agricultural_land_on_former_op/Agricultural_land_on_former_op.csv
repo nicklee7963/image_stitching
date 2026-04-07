@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_on_former_opencast_land_-_geograph.org.uk_-_813354.jpg,SIFT,1.6503041,0.9969670888491249,0.325475964822539,0.999992997777467
+農業與植物,Agricultural_land_on_former_opencast_land_-_geograph.org.uk_-_813354.jpg,ORB,418.80017,0.8744561910968455,16.48031358340822,0.9906194352616303
+農業與植物,Agricultural_land_on_former_opencast_land_-_geograph.org.uk_-_813354.jpg,LoFTR,116.23049,0.9809847330779486,0.38534256086015756,0.9999989045845337

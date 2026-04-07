@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Bangkok_Skyline_from_Movenpick_Hotel__Asok__Bangkok_at_night.jpg,SIFT,1.9064229,0.9972694998116753,0.9845251828173222,0.9999900390574019
+城市建築,Bangkok_Skyline_from_Movenpick_Hotel__Asok__Bangkok_at_night.jpg,ORB,503.16306,0.8287424357785625,35.72071783759408,0.9302609911150972
+城市建築,Bangkok_Skyline_from_Movenpick_Hotel__Asok__Bangkok_at_night.jpg,LoFTR,50.547512,0.9831061139227972,0.528244913922677,0.9999919629295526

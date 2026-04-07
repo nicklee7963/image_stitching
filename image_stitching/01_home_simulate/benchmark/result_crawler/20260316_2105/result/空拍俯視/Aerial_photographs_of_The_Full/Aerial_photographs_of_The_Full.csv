@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg,SIFT,80.04123,0.9676088839076534,2.0993275569630323,0.9998809331707302
+空拍俯視,Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg,ORB,224.2292,0.9517667905784624,2.2692651395854386,0.999994563178193
+空拍俯視,Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg,LoFTR,221.05533,0.9232085040380354,1.5551099227044078,0.9999714827187589

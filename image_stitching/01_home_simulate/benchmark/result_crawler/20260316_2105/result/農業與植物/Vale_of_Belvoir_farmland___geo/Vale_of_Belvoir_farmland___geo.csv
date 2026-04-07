@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Vale_of_Belvoir_farmland_-_geograph.org.uk_-_982615.jpg,SIFT,1.270183,0.9971282957963975,1.3887660335857508,0.9999977291123637
+農業與植物,Vale_of_Belvoir_farmland_-_geograph.org.uk_-_982615.jpg,ORB,299.63162,0.8141343433744969,25.70164848490009,0.9919065028483048
+農業與植物,Vale_of_Belvoir_farmland_-_geograph.org.uk_-_982615.jpg,LoFTR,61.418243,0.9744680630402244,6.45272974812972,0.9988448382114851

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Paiyun_Lodge_(Aerial_Photography)_original.jpg,SIFT,30.652191,0.9869351016222269,0.9904097462212036,0.9959322139235832
+空拍俯視,Paiyun_Lodge_(Aerial_Photography)_original.jpg,ORB,1624.1757,0.6961805892474952,26.314052964611427,0.028074178540798758
+空拍俯視,Paiyun_Lodge_(Aerial_Photography)_original.jpg,LoFTR,163.93025,0.88962744264392,0.40184226931566336,0.9999478873089213

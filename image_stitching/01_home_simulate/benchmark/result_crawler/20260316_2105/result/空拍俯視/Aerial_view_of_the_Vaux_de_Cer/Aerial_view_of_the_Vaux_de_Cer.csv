@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_view_of_the_Vaux-de-Cernay_abbey.jpg,SIFT,6.5880356,0.9796625694073685,1.6341968090261272,0.9992868655828516
+空拍俯視,Aerial_view_of_the_Vaux-de-Cernay_abbey.jpg,ORB,143.77144,0.9244882591284783,4.233498692555297,0.9951257436960368
+空拍俯視,Aerial_view_of_the_Vaux-de-Cernay_abbey.jpg,LoFTR,209.71588,0.8618203584637167,9.094704055165755,0.9913773900790288

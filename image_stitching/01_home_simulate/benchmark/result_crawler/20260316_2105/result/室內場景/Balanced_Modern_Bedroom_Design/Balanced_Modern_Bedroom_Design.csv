@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Balanced_Modern_Bedroom_Design_with_Neutral_Tones_and_Layered_Lighting.jpg,SIFT,374.43832,0.9556824729766531,7.386632750538936,0.9997256664421587
+室內場景,Balanced_Modern_Bedroom_Design_with_Neutral_Tones_and_Layered_Lighting.jpg,ORB,818.50574,0.9145796396622156,4.388754729303783,0.9999969185558668
+室內場景,Balanced_Modern_Bedroom_Design_with_Neutral_Tones_and_Layered_Lighting.jpg,LoFTR,228.26076,0.9733017766359676,0.6183725224521708,0.999978018532111

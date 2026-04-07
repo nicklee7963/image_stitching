@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Annual_report_of_the_Commissioner_of_Fisheries_to_the_Secretary_of_Commerce_for_the_fiscal_year_ended_(1924)_(19175493220).jpg,SIFT,7.917701,0.9975663523317452,0.4257882915684031,0.9999962677307687
+室內場景,Annual_report_of_the_Commissioner_of_Fisheries_to_the_Secretary_of_Commerce_for_the_fiscal_year_ended_(1924)_(19175493220).jpg,ORB,79.73391,0.9771348761881092,1.5979591283383647,0.9998403715259204
+室內場景,Annual_report_of_the_Commissioner_of_Fisheries_to_the_Secretary_of_Commerce_for_the_fiscal_year_ended_(1924)_(19175493220).jpg,LoFTR,157.3584,0.9645153839932151,2.673032221296478,0.9997516056638225

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg,SIFT,28.772287,0.9924491589066144,0.22348433191996345,0.9999900784648231
+自然風景,Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg,ORB,327.98526,0.9596111184570555,3.8945600715570516,0.9998712810536965
+自然風景,Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg,LoFTR,95.923706,0.9843966875691841,0.18199761919074287,0.9999958080396069

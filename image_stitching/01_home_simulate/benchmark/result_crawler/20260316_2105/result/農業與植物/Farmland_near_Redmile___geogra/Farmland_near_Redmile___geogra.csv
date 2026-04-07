@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farmland_near_Redmile_-_geograph.org.uk_-_978478.jpg,SIFT,1.5979708,0.9974260181696576,0.3900273512375839,0.9999776227269818
+農業與植物,Farmland_near_Redmile_-_geograph.org.uk_-_978478.jpg,ORB,27.339907,0.9872988684167316,0.8683069913475842,0.9999086173618243
+農業與植物,Farmland_near_Redmile_-_geograph.org.uk_-_978478.jpg,LoFTR,24.367373,0.9896375178285934,1.0688007858749917,0.999984760045388

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Keith_-_Mountain_Landscape_with_Cattle_-_HNT.jpg,SIFT,11.327586,0.9950054841352542,0.6121762719971994,0.9999601773537782
+自然風景,Keith_-_Mountain_Landscape_with_Cattle_-_HNT.jpg,ORB,597.6432,0.7706612653210393,7.510261444915333,0.9923104569177131
+自然風景,Keith_-_Mountain_Landscape_with_Cattle_-_HNT.jpg,LoFTR,71.14578,0.9815552010426073,0.3442254004235092,0.9999869010305037

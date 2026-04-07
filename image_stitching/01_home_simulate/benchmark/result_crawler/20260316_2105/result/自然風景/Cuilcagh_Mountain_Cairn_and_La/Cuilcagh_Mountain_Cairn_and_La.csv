@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Cuilcagh_Mountain_Cairn_and_Landscape_(geograph_2038072).jpg,SIFT,234.48628,0.9515282567170869,2.3803837620585773,0.9997257419058547
+自然風景,Cuilcagh_Mountain_Cairn_and_Landscape_(geograph_2038072).jpg,ORB,396.28317,0.9508209825007855,9.336537107725865,0.9957838614422515
+自然風景,Cuilcagh_Mountain_Cairn_and_Landscape_(geograph_2038072).jpg,LoFTR,234.06157,0.9745393060221423,7.668276132458505,0.9971943910612961

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_shot_of_National_Central_University_in_1929.jpg,SIFT,3.9494703,0.9968374697186072,0.131756784571472,0.9999947483260379
+空拍俯視,Aerial_shot_of_National_Central_University_in_1929.jpg,ORB,63.791634,0.9768331816275401,0.3860179809505733,0.9999547251298955
+空拍俯視,Aerial_shot_of_National_Central_University_in_1929.jpg,LoFTR,34.492676,0.9876782056464722,0.4481172481458316,0.9999676819789123

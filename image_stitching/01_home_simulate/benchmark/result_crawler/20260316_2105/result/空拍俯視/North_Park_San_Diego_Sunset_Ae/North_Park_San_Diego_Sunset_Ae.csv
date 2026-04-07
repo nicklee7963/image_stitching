@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,North_Park_San_Diego_Sunset_Aerial_Photography.jpg,SIFT,3.3338718,0.9962978871927985,0.6824089332405388,0.9999997032923522
+空拍俯視,North_Park_San_Diego_Sunset_Aerial_Photography.jpg,ORB,69.71179,0.9758905730253421,1.245014011022928,0.9999805540434783
+空拍俯視,North_Park_San_Diego_Sunset_Aerial_Photography.jpg,LoFTR,198.17918,0.9385322368655681,8.341716963796406,0.997380280766434

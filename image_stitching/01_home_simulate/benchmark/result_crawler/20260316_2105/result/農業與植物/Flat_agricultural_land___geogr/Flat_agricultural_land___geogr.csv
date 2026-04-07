@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Flat_agricultural_land_-_geograph.org.uk_-_5951823.jpg,SIFT,15673.918,0.6685002812435621,560.4103582633805,-0.9996888009975895
+農業與植物,Flat_agricultural_land_-_geograph.org.uk_-_5951823.jpg,ORB,6794.2847,0.8171368036487705,88.09001890520838,0.6607335348739052
+農業與植物,Flat_agricultural_land_-_geograph.org.uk_-_5951823.jpg,LoFTR,75.15833,0.9832671868640263,0.25471845344895133,0.9999998765434075

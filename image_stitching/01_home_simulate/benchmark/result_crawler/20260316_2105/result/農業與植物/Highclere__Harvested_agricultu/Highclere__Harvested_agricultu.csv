@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Highclere__Harvested_agricultural_land_-_geograph.org.uk_-_6261794.jpg,SIFT,314.69736,0.9656846663897525,3.802873990782394,0.9998247911865579
+農業與植物,Highclere__Harvested_agricultural_land_-_geograph.org.uk_-_6261794.jpg,ORB,1528.1233,0.8828986777267255,22.131045629313977,0.9888383539070652
+農業與植物,Highclere__Harvested_agricultural_land_-_geograph.org.uk_-_6261794.jpg,LoFTR,243.48795,0.9672495802040397,2.3296661875808913,0.9997883454072982

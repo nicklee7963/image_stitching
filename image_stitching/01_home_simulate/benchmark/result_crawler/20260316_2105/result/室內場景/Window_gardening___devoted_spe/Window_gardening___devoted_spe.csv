@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Window_gardening_-_devoted_specially_to_the_culture_of_flowers_and_ornamental_plants_for_indoor_use_and_parlor_decoration_(1872)_(14759151316).jpg,SIFT,21.494455,0.9948271746427862,0.334168292802751,0.9999960043146118
+室內場景,Window_gardening_-_devoted_specially_to_the_culture_of_flowers_and_ornamental_plants_for_indoor_use_and_parlor_decoration_(1872)_(14759151316).jpg,ORB,261.99777,0.9683596498889859,1.448839614296937,0.9999894239192632
+室內場景,Window_gardening_-_devoted_specially_to_the_culture_of_flowers_and_ornamental_plants_for_indoor_use_and_parlor_decoration_(1872)_(14759151316).jpg,LoFTR,146.43097,0.9823722676745057,0.12306937323881864,0.9999998504309018

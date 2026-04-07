@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Landwasserviadukt__aerial_photography_from_northeast_2.jpg,SIFT,257.50027,0.5998450965210985,475.90026951262314,-0.9461451500079321
+空拍俯視,Landwasserviadukt__aerial_photography_from_northeast_2.jpg,ORB,353.28668,0.6908532159259865,227.3472675780375,-0.9864817050944332
+空拍俯視,Landwasserviadukt__aerial_photography_from_northeast_2.jpg,LoFTR,200.30713,0.7471880417017598,103.93983712907767,-0.9920359475273517

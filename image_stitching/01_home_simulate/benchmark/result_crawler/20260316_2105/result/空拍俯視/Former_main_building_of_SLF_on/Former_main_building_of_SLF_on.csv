@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Former_main_building_of_SLF_on_Weissfluhjoch__aerial_photography_2.jpg,SIFT,2.8141482,0.9953909473739668,0.9928672067665519,0.9992042092674778
+空拍俯視,Former_main_building_of_SLF_on_Weissfluhjoch__aerial_photography_2.jpg,ORB,81.7794,0.9593898917169916,3.210773876097902,0.9923018244707504
+空拍俯視,Former_main_building_of_SLF_on_Weissfluhjoch__aerial_photography_2.jpg,LoFTR,78.20173,0.9800799254056108,0.11907323699251958,0.9999839367170997

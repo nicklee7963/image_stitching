@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farmland_land_east_of_Acomb_-_geograph.org.uk_-_4332493.jpg,SIFT,3.1274793,0.997954211978253,0.3131516925832684,0.9999796330735174
+農業與植物,Farmland_land_east_of_Acomb_-_geograph.org.uk_-_4332493.jpg,ORB,99.16938,0.9750854490858986,2.6895454284405886,0.9996688369721601
+農業與植物,Farmland_land_east_of_Acomb_-_geograph.org.uk_-_4332493.jpg,LoFTR,128.3192,0.9762373719637265,0.39193035580647373,0.9999888567645168

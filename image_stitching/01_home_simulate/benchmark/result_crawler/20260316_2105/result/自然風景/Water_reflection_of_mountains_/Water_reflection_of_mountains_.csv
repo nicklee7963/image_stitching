@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Water_reflection_of_mountains_and_hut_in_a_paddy_field_with_blue_sky_in_Vang_Vieng__Laos.jpg,SIFT,3.8773515,0.9936758299210093,1.367663326244935,0.9999195197885555
+自然風景,Water_reflection_of_mountains_and_hut_in_a_paddy_field_with_blue_sky_in_Vang_Vieng__Laos.jpg,ORB,54.257042,0.9113666293767421,1.7864090748476802,0.999982447229079
+自然風景,Water_reflection_of_mountains_and_hut_in_a_paddy_field_with_blue_sky_in_Vang_Vieng__Laos.jpg,LoFTR,13.469356,0.984024121783205,4.610888772676446,0.9996834465365588

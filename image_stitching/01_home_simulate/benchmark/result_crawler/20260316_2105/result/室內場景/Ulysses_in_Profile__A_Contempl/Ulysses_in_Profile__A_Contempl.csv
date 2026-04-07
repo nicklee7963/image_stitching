@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Ulysses_in_Profile__A_Contemplative_Maine_Coon_Mix_Portrait_-_Flickr_-_dalecruse.jpg,SIFT,429.78845,0.9147778131510814,14.02669181287401,0.944982474427404
+室內場景,Ulysses_in_Profile__A_Contemplative_Maine_Coon_Mix_Portrait_-_Flickr_-_dalecruse.jpg,ORB,512.14905,0.9022509732959273,10.998015055043346,0.9623693381726842
+室內場景,Ulysses_in_Profile__A_Contemplative_Maine_Coon_Mix_Portrait_-_Flickr_-_dalecruse.jpg,LoFTR,89.464584,0.9802461013762002,0.6234030906780575,0.9999148808674821

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_view_of_Uphall_-_geograph.org.uk_-_2236053.jpg,SIFT,34003.5,0.19784192296937464,521.6018752211902,0.03259877546530798
+空拍俯視,Aerial_view_of_Uphall_-_geograph.org.uk_-_2236053.jpg,ORB,13623.71,0.5718210067853712,134.52914376338097,0.9196699991116851
+空拍俯視,Aerial_view_of_Uphall_-_geograph.org.uk_-_2236053.jpg,LoFTR,26015.945,0.46575817465609004,819.4881208206743,-0.18912070870853484

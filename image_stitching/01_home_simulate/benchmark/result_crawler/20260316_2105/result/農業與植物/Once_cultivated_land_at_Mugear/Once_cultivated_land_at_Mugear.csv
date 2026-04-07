@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Once-cultivated_land_at_Mugeary_-_geograph.org.uk_-_2786849.jpg,SIFT,21817.69,0.5783981997551283,577.4380555867099,0.6192045021485056
+農業與植物,Once-cultivated_land_at_Mugeary_-_geograph.org.uk_-_2786849.jpg,ORB,329.52762,0.9543422054933399,1.5840858872787031,0.9999149219344255
+農業與植物,Once-cultivated_land_at_Mugeary_-_geograph.org.uk_-_2786849.jpg,LoFTR,167.0598,0.9782216284332744,0.7753608996584618,0.9999919903549921

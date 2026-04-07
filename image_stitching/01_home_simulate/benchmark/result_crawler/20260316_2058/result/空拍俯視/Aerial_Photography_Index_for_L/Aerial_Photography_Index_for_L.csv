@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_Photography_Index_for_Las_Animas_County__Colorado__Sheet_3_-_DPLA_-_bc1e62af51af0b8ca7f9b818795ce890.jpg,SIFT,3.4826078,0.9982577802282175,0.5233214599044431,0.999989249540432
+空拍俯視,Aerial_Photography_Index_for_Las_Animas_County__Colorado__Sheet_3_-_DPLA_-_bc1e62af51af0b8ca7f9b818795ce890.jpg,ORB,35.89328,0.9829524700299342,0.49101589503128856,0.9999917644959648
+空拍俯視,Aerial_Photography_Index_for_Las_Animas_County__Colorado__Sheet_3_-_DPLA_-_bc1e62af51af0b8ca7f9b818795ce890.jpg,LoFTR,30.741728,0.9862832610282158,0.6666387231270561,0.9999889299910292

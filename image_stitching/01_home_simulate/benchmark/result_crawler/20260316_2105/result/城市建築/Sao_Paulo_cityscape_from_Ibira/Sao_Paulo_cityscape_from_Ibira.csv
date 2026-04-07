@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Sao_Paulo_cityscape_from_Ibirapuera_Park_2.jpg,SIFT,1.7331544,0.9935701386881907,4.103323095612345,0.9985994106569304
+城市建築,Sao_Paulo_cityscape_from_Ibirapuera_Park_2.jpg,ORB,49.489883,0.9821832027348486,6.254095142213981,0.9994670042396508
+城市建築,Sao_Paulo_cityscape_from_Ibirapuera_Park_2.jpg,LoFTR,52.068676,0.9766933898762885,14.550330645447653,0.9922298168819529

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountain_landscape__Ergaki__Sayan_Mountains__Siberia.jpg,SIFT,1361.0408,0.5178041838883518,940.8846517524864,0.40691137929867177
+自然風景,Mountain_landscape__Ergaki__Sayan_Mountains__Siberia.jpg,ORB,3207.4482,0.18309098175135372,1135.5681164101238,0.6211129933885969
+自然風景,Mountain_landscape__Ergaki__Sayan_Mountains__Siberia.jpg,LoFTR,2622.1562,0.39248150975055507,522.9189907981903,-0.23985031926507228

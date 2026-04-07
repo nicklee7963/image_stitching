@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Kopenhagen_(DK)__Peblinge-See__Søpavillonen_--_2017_--_1453.jpg,SIFT,18.011896,0.9912135378134174,0.983744846381821,0.9999952610278555
+城市建築,Kopenhagen_(DK)__Peblinge-See__Søpavillonen_--_2017_--_1453.jpg,ORB,293.28012,0.9344360615637959,9.377622338579114,0.9973102491803655
+城市建築,Kopenhagen_(DK)__Peblinge-See__Søpavillonen_--_2017_--_1453.jpg,LoFTR,87.23181,0.9761033612354251,1.7499332235716814,0.999918102588687

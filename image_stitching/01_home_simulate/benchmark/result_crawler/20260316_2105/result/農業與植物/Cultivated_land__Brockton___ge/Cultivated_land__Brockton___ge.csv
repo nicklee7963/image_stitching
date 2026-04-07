@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land__Brockton_-_geograph.org.uk_-_2126955.jpg,SIFT,222.20192,0.9779455374977846,1.8510095220184193,0.9999390684694901
+農業與植物,Cultivated_land__Brockton_-_geograph.org.uk_-_2126955.jpg,ORB,1167.9076,0.9014984376902161,10.122218003356593,0.9983443864069641
+農業與植物,Cultivated_land__Brockton_-_geograph.org.uk_-_2126955.jpg,LoFTR,1481.7408,0.9164966731470264,19.068536671286406,0.9978656356734921

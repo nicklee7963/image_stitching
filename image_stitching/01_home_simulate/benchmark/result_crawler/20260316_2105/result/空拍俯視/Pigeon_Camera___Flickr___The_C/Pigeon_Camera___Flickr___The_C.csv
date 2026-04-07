@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Pigeon_Camera_-_Flickr_-_The_Central_Intelligence_Agency.jpg,SIFT,126.34372,0.9784829988920424,1.3279910870823812,0.9998174665716135
+空拍俯視,Pigeon_Camera_-_Flickr_-_The_Central_Intelligence_Agency.jpg,ORB,212.56813,0.9726698649075041,2.12319775505704,0.9996518384965162
+空拍俯視,Pigeon_Camera_-_Flickr_-_The_Central_Intelligence_Agency.jpg,LoFTR,122.78213,0.9808986635526196,1.8142086895125193,0.9998606036644296

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Columbia_Road_E2__Sunday_flower_market_-_geograph.org.uk_-_1600074.jpg,SIFT,8.8667,0.9905840177002015,4.105362922893396,0.9984688460278128
+室內場景,Columbia_Road_E2__Sunday_flower_market_-_geograph.org.uk_-_1600074.jpg,ORB,151.5363,0.9330610253830611,6.882692336852224,0.9968555351216647
+室內場景,Columbia_Road_E2__Sunday_flower_market_-_geograph.org.uk_-_1600074.jpg,LoFTR,27.951244,0.9871960212106794,0.45732091033246347,0.9999010083488399

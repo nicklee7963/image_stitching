@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Unknown_(Chinese)_-_Mountain_Landscape_-_61.252_-_Detroit_Institute_of_Arts.jpg,SIFT,65025.0,0.0,500.0,0.0
+自然風景,Unknown_(Chinese)_-_Mountain_Landscape_-_61.252_-_Detroit_Institute_of_Arts.jpg,ORB,15558.361328125,0.23198842516530846,572.5526694542643,0.97386340742541
+自然風景,Unknown_(Chinese)_-_Mountain_Landscape_-_61.252_-_Detroit_Institute_of_Arts.jpg,LoFTR,195.8047637939453,0.9763010957830961,0.22728946864659622,0.9999965076015235

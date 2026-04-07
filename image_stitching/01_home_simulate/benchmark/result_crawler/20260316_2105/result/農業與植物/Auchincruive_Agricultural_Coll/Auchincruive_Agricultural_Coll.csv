@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Auchincruive_Agricultural_College_-_geograph.org.uk_-_3545313.jpg,SIFT,1.3988757,0.9933106291071104,1.840426952099527,0.9998092392805078
+農業與植物,Auchincruive_Agricultural_College_-_geograph.org.uk_-_3545313.jpg,ORB,54.528828,0.977397493146623,1.9012369147267982,0.9990686869793144
+農業與植物,Auchincruive_Agricultural_College_-_geograph.org.uk_-_3545313.jpg,LoFTR,53.629314,0.9775669008809147,4.434653176922954,0.9987289389569405

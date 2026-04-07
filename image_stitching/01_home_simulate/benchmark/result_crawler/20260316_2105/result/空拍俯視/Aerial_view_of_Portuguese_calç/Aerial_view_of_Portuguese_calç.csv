@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_view_of_Portuguese_calçada__Instituto_Superior_Técnico__Lisbon__Portugal_julesvernex2.jpg,SIFT,21974.84,0.40282071931747526,880.5966710650603,-0.9366586658069949
+空拍俯視,Aerial_view_of_Portuguese_calçada__Instituto_Superior_Técnico__Lisbon__Portugal_julesvernex2.jpg,ORB,6021.9204,0.7684295117186308,90.9827555217316,-0.6195193904952537
+空拍俯視,Aerial_view_of_Portuguese_calçada__Instituto_Superior_Técnico__Lisbon__Portugal_julesvernex2.jpg,LoFTR,385.29767,0.9469197588823386,3.3198149728293,0.9981588296594648

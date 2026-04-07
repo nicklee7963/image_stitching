@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Anthony_Vandyke_Copley_Fielding_(1787-1855)_-_Mountain_Landscape_-_1408-1869_-_Victoria_and_Albert_Museum.jpg,SIFT,15.756869,0.9612032042332292,6.099261902753127,0.997814939159943
+自然風景,Anthony_Vandyke_Copley_Fielding_(1787-1855)_-_Mountain_Landscape_-_1408-1869_-_Victoria_and_Albert_Museum.jpg,ORB,1182.3318,0.5231624718142489,291.1251912717971,0.13395655900606213
+自然風景,Anthony_Vandyke_Copley_Fielding_(1787-1855)_-_Mountain_Landscape_-_1408-1869_-_Victoria_and_Albert_Museum.jpg,LoFTR,85.085144,0.9805453706902473,0.15611299978938759,0.9999984453632234

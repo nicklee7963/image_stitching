@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land__Eastwell_-_geograph.org.uk_-_6778083.jpg,SIFT,1.5305965,0.9981226209309398,0.17359121026271304,0.9999990064337154
+農業與植物,Agricultural_land__Eastwell_-_geograph.org.uk_-_6778083.jpg,ORB,644.1627,0.6823234361418282,19.20077198588458,0.9937255134671562
+農業與植物,Agricultural_land__Eastwell_-_geograph.org.uk_-_6778083.jpg,LoFTR,47.380344,0.9893432512124032,0.15575908776186168,0.9999990999945031

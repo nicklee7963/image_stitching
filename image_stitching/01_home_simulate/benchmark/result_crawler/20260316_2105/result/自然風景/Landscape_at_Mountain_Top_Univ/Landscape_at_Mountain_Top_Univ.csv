@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Landscape_at_Mountain_Top_University_Nigeria.jpg,SIFT,83.14301,0.9559139867148502,32.73484967912622,0.8521916873982935
+自然風景,Landscape_at_Mountain_Top_University_Nigeria.jpg,ORB,24.062502,0.935338429603023,68.23194859866798,0.9523215859918722
+自然風景,Landscape_at_Mountain_Top_University_Nigeria.jpg,LoFTR,11.126265,0.9595436328989773,12.932123802335726,0.9999818653267963

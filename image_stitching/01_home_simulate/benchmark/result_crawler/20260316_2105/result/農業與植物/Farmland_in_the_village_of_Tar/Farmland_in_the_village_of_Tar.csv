@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farmland_in_the_village_of_Targaon__Maharashtra_8.jpg,SIFT,16.563486,0.9889178932993293,6.42052391001974,0.9999992880968155
+農業與植物,Farmland_in_the_village_of_Targaon__Maharashtra_8.jpg,ORB,187.75017,0.8942158372027331,14.47640417293989,0.9998451977801776
+農業與植物,Farmland_in_the_village_of_Targaon__Maharashtra_8.jpg,LoFTR,64.77982,0.9822834857297119,4.265073370388045,0.9998626379597736

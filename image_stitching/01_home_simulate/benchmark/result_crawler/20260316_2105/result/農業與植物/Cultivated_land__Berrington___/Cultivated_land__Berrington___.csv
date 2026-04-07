@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land__Berrington_-_geograph.org.uk_-_2611460.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Cultivated_land__Berrington_-_geograph.org.uk_-_2611460.jpg,ORB,12929.5869140625,0.6777703144338232,226.31138865171448,-0.1683322427096021
+農業與植物,Cultivated_land__Berrington_-_geograph.org.uk_-_2611460.jpg,LoFTR,10536.453125,0.7251216329643696,387.43022361469144,0.3717252727802547

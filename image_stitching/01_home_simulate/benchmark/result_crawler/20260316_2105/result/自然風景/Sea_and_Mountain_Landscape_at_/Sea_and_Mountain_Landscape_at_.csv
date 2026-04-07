@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Sea_and_Mountain_Landscape_at_Lago_Blanco.jpg,SIFT,9.496173,0.9960200072623804,1.1563886742518157,0.9999569462375624
+自然風景,Sea_and_Mountain_Landscape_at_Lago_Blanco.jpg,ORB,155.97145,0.9690551329867944,1.3376958619790058,0.9998483220367977
+自然風景,Sea_and_Mountain_Landscape_at_Lago_Blanco.jpg,LoFTR,83.647125,0.9820396508181072,0.9464825535181888,0.9998600496888237

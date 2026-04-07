@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_near_the_Kidlaw_Burn_-_geograph.org.uk_-_1859123.jpg,SIFT,1.3691553,0.9969540130030351,2.466380308526446,0.9999715129754467
+農業與植物,Agricultural_land_near_the_Kidlaw_Burn_-_geograph.org.uk_-_1859123.jpg,ORB,402.44592,0.8221167213779293,4.467287115946697,0.9991182212954048
+農業與植物,Agricultural_land_near_the_Kidlaw_Burn_-_geograph.org.uk_-_1859123.jpg,LoFTR,49.37311,0.9842608307247117,2.3887015431534055,0.9999636920392236

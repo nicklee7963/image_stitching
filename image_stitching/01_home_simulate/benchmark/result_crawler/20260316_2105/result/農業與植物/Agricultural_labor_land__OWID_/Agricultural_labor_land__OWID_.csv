@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural-labor-land_(OWID_0030).png,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Agricultural-labor-land_(OWID_0030).png,ORB,22120.2578125,0.5974778300851133,161.22999946148474,0.861609638006999
+農業與植物,Agricultural-labor-land_(OWID_0030).png,LoFTR,19631.91796875,0.657996856452116,729.3985020144338,-0.6722702117184185

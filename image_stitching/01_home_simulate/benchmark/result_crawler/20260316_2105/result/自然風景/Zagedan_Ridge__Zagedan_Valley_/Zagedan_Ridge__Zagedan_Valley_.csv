@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Zagedan_Ridge__Zagedan_Valley__Caucasus_Mountains__Karachay-Cherkessia.jpg,SIFT,1.2590693,0.9975025315031661,0.4403697927569091,0.9997938720656688
+自然風景,Zagedan_Ridge__Zagedan_Valley__Caucasus_Mountains__Karachay-Cherkessia.jpg,ORB,187.12453,0.9538470548494975,1.3499352584638369,0.9994059241218204
+自然風景,Zagedan_Ridge__Zagedan_Valley__Caucasus_Mountains__Karachay-Cherkessia.jpg,LoFTR,91.3925,0.9779160669728896,0.8963780536705686,0.9993597426538069

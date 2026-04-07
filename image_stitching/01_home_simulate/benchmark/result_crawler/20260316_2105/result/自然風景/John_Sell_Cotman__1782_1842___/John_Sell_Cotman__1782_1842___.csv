@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,John_Sell_Cotman_(1782-1842)_(attributed_to)_-_Mountain_Landscape_-_R.1931-28.18_-_Colchester_and_Ipswich_Museums_Service.jpg,SIFT,65025.0,0.0,500.0,0.0
+自然風景,John_Sell_Cotman_(1782-1842)_(attributed_to)_-_Mountain_Landscape_-_R.1931-28.18_-_Colchester_and_Ipswich_Museums_Service.jpg,ORB,181.74932861328125,0.6793648110920962,148.2159141855837,-0.7651054803373296
+自然風景,John_Sell_Cotman_(1782-1842)_(attributed_to)_-_Mountain_Landscape_-_R.1931-28.18_-_Colchester_and_Ipswich_Museums_Service.jpg,LoFTR,126.70716857910156,0.98222500138741,1.4586214827530446,0.9999346416675986

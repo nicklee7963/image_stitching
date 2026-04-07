@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Julius_Neubronner_with_pigeon_and_camera_1914_cropped.jpg,SIFT,3.203534,0.9944417754854116,0.6069243436265874,0.9999570548406064
+空拍俯視,Julius_Neubronner_with_pigeon_and_camera_1914_cropped.jpg,ORB,75.06754,0.9806195209881918,1.5109836748921512,0.99946649637265
+空拍俯視,Julius_Neubronner_with_pigeon_and_camera_1914_cropped.jpg,LoFTR,70.63631,0.9867323986268017,1.1002878281507553,0.9999938783610715

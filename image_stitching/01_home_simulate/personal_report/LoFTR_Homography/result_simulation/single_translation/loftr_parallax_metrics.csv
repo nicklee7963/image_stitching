@@ -1,0 +1,13 @@
+﻿Base_Image,Target_Image,Parallax_Angle,Good_Matches,RANSAC_Inliers,Inlier_Ratio,Status
+40.jpg,45.jpg,5,3472,1259,0.3626,Success
+40.jpg,50.jpg,10,3398,1968,0.5792,Success
+40.jpg,55.jpg,15,2380,1155,0.4853,Success
+40.jpg,60.jpg,20,2198,881,0.4008,Success
+40.jpg,65.jpg,25,1918,673,0.3509,Success
+40.jpg,70.jpg,30,1952,752,0.3852,Success
+40.jpg,75.jpg,35,1990,595,0.299,Success
+40.jpg,80.jpg,40,2172,718,0.3306,Success
+40.jpg,85.jpg,45,1641,499,0.3041,Success
+40.jpg,90.jpg,50,1941,496,0.2555,Success
+40.jpg,95.jpg,55,1611,352,0.2185,Success
+40.jpg,100.jpg,60,1921,454,0.2363,Success

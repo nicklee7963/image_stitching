@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farm_land_and_industrial_land_-_geograph.org.uk_-_2057338.jpg,SIFT,30.26045,0.9706485996241095,1.9619036258182818,0.9998224413038679
+農業與植物,Farm_land_and_industrial_land_-_geograph.org.uk_-_2057338.jpg,ORB,116.33884,0.9216712747052508,3.7249494695900633,0.99992362396129
+農業與植物,Farm_land_and_industrial_land_-_geograph.org.uk_-_2057338.jpg,LoFTR,56.759327,0.9818931548262753,1.063991869018194,0.9999661267501307

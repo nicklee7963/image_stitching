@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_shot_of_Pier_Road_&_Chatham_Waters_from_the_Docks.jpg,SIFT,5.393242,0.9899899015362127,0.405930169510192,0.9997372453124049
+空拍俯視,Aerial_shot_of_Pier_Road_&_Chatham_Waters_from_the_Docks.jpg,ORB,99.94572,0.9305238133390855,3.942156328034411,0.9957169147565211
+空拍俯視,Aerial_shot_of_Pier_Road_&_Chatham_Waters_from_the_Docks.jpg,LoFTR,30.584612,0.9598337755313937,0.9776212126821837,0.999393754383368

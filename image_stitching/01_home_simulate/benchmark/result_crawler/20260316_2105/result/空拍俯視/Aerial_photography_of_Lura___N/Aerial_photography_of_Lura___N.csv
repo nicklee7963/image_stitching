@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_photography_of_Lura_-_North_side.jpg,SIFT,1.4454913,0.9977328959328418,0.27233775538480126,0.9999999973062668
+空拍俯視,Aerial_photography_of_Lura_-_North_side.jpg,ORB,142.79837,0.973990518023605,0.6237367243318054,0.9999992680795035
+空拍俯視,Aerial_photography_of_Lura_-_North_side.jpg,LoFTR,384.79407,0.7551293268883708,8.831276365039269,0.9999963098693668

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Drone_Photography_Torrey_Pines_Beach_San_Diego.jpg,SIFT,3.921449,0.995717787471158,3.877127444158534,0.9992067483415792
+空拍俯視,Drone_Photography_Torrey_Pines_Beach_San_Diego.jpg,ORB,71.18072,0.9544326950058655,17.981523992300062,0.9849175298292447
+空拍俯視,Drone_Photography_Torrey_Pines_Beach_San_Diego.jpg,LoFTR,9.400301,0.987562142745739,6.065531694529734,0.9979686203243084

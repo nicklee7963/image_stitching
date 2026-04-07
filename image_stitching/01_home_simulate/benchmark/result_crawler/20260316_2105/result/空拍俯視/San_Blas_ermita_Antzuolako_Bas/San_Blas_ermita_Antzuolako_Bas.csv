@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,San_Blas_ermita_Antzuolako_Basalde_auzoan.jpg,SIFT,2.440393,0.9974004279592839,0.3147018140237532,0.9999400074660302
+空拍俯視,San_Blas_ermita_Antzuolako_Basalde_auzoan.jpg,ORB,100.24796,0.9639591407576115,2.8180114335938984,0.9944830952678669
+空拍俯視,San_Blas_ermita_Antzuolako_Basalde_auzoan.jpg,LoFTR,53.456455,0.9805282029747281,1.0170896809999115,0.9995521137642336

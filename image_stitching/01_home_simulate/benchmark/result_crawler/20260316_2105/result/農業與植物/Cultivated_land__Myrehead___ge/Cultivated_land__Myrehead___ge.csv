@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land__Myrehead_-_geograph.org.uk_-_1233649.jpg,SIFT,20.363575,0.992933522351412,1.211474274106754,0.9999251665687645
+農業與植物,Cultivated_land__Myrehead_-_geograph.org.uk_-_1233649.jpg,ORB,68.696014,0.9838193908373543,0.7549010159694188,0.9999892838903806
+農業與植物,Cultivated_land__Myrehead_-_geograph.org.uk_-_1233649.jpg,LoFTR,85.04975,0.9800669596602831,0.5592192140742993,0.9999827998977175

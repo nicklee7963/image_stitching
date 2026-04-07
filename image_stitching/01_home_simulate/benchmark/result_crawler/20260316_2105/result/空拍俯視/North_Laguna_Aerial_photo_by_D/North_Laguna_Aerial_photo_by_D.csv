@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,North_Laguna_Aerial_photo_by_D_Ramey_Logan.jpg,SIFT,0.2442904,0.9986243239415225,0.09280280021425033,0.9999988716224123
+空拍俯視,North_Laguna_Aerial_photo_by_D_Ramey_Logan.jpg,ORB,124.21823,0.95877225859659,5.454767123936146,0.9994384006973047
+空拍俯視,North_Laguna_Aerial_photo_by_D_Ramey_Logan.jpg,LoFTR,125.965515,0.9643297780978269,2.168331785754288,0.99939190504781

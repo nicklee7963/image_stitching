@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Scenic_mountain_landscape_against_a_clear_blue_sky.jpg,SIFT,43.948433,0.967462389228744,9.931748085774585,0.9853526929817144
+自然風景,Scenic_mountain_landscape_against_a_clear_blue_sky.jpg,ORB,129.0372,0.9420585184215302,12.274197097955469,0.9728628796027554
+自然風景,Scenic_mountain_landscape_against_a_clear_blue_sky.jpg,LoFTR,153.4123,0.9558655051446167,3.429553577573191,0.9972671983687218

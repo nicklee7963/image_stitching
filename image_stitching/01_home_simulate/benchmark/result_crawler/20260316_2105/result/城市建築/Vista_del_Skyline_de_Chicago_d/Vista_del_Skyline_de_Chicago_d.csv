@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Vista_del_Skyline_de_Chicago_desde_el_Planetario__Illinois__Estados_Unidos__2012-10-20__DD_02.jpg,SIFT,6.437381,0.994239420028432,0.3517263757817115,0.9999901664659996
+城市建築,Vista_del_Skyline_de_Chicago_desde_el_Planetario__Illinois__Estados_Unidos__2012-10-20__DD_02.jpg,ORB,750.8978,0.8759801484785567,11.54293390538165,0.9969527726120359
+城市建築,Vista_del_Skyline_de_Chicago_desde_el_Planetario__Illinois__Estados_Unidos__2012-10-20__DD_02.jpg,LoFTR,127.0805,0.966940711263628,0.3485197874026175,0.9999964263548546

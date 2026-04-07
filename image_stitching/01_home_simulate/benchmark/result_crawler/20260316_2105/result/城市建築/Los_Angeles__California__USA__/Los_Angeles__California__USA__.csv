@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Los_Angeles_(California__USA)__South_Olive_Street_--_2012_--_4847.jpg,SIFT,182.2785,0.8204748817455619,103.65721442260244,0.254147134223432
+城市建築,Los_Angeles_(California__USA)__South_Olive_Street_--_2012_--_4847.jpg,ORB,1037.7655,0.4668958010675841,298.21389148347754,0.4594253290292379
+城市建築,Los_Angeles_(California__USA)__South_Olive_Street_--_2012_--_4847.jpg,LoFTR,656.00275,0.5862693064648856,430.472265588563,0.5556282804522107

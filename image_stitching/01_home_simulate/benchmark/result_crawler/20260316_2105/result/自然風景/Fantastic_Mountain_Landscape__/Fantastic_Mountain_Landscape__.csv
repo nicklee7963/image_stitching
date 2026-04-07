@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Fantastic_Mountain_Landscape_-_Tobias_Verhaecht.jpg,SIFT,0.495,0.9981219051959939,0.17126725298344042,0.9999992500508238
+自然風景,Fantastic_Mountain_Landscape_-_Tobias_Verhaecht.jpg,ORB,146.7421,0.9744541337222414,2.4329982660345384,0.9998984362913224
+自然風景,Fantastic_Mountain_Landscape_-_Tobias_Verhaecht.jpg,LoFTR,144.99399,0.9800791282855796,0.23883577596866495,0.9999995350824399

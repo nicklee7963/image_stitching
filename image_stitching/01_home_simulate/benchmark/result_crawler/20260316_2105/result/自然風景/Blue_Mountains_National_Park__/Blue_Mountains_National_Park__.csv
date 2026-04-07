@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Blue_Mountains_National_Park_(AU)__Three_Sisters_--_2019_--_1987-9.jpg,SIFT,6.1741505,0.9971191462386799,0.16037610568275618,0.9999987464104337
+自然風景,Blue_Mountains_National_Park_(AU)__Three_Sisters_--_2019_--_1987-9.jpg,ORB,187.26962,0.950418347577581,1.4462851503869845,0.9999963844668464
+自然風景,Blue_Mountains_National_Park_(AU)__Three_Sisters_--_2019_--_1987-9.jpg,LoFTR,115.43706,0.9827780975023593,0.8772439295628773,0.9999878965820157

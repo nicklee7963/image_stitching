@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Land_near_Beacon_Farm_-_geograph.org.uk_-_3121852.jpg,SIFT,50.304844,0.9774911459705269,7.629701075060552,0.9991474907555309
+農業與植物,Land_near_Beacon_Farm_-_geograph.org.uk_-_3121852.jpg,ORB,87.09729,0.9566888989539313,12.862808333489683,0.9971195671537072
+農業與植物,Land_near_Beacon_Farm_-_geograph.org.uk_-_3121852.jpg,LoFTR,140.89479,0.9405996715194187,16.39641916134539,0.9955213572370767

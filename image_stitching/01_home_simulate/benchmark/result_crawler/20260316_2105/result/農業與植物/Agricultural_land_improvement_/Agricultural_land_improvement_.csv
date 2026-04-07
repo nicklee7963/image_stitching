@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_improvement_at_Sinnottsmill_-_geograph.org.uk_-_1238333.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Agricultural_land_improvement_at_Sinnottsmill_-_geograph.org.uk_-_1238333.jpg,ORB,303.9384460449219,0.752956162290311,253.3169873658027,-0.7331956351490045
+農業與植物,Agricultural_land_improvement_at_Sinnottsmill_-_geograph.org.uk_-_1238333.jpg,LoFTR,448.788818359375,0.7486592548209269,1191.0239240157,-0.5051079637199077

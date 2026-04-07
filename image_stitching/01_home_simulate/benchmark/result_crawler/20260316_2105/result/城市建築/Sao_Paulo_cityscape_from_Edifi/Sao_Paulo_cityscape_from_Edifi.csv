@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Sao_Paulo_cityscape_from_Edificio_Martinelli_3.jpg,SIFT,1.048786,0.9967504765265272,1.939387488827634,0.9997606474319372
+城市建築,Sao_Paulo_cityscape_from_Edificio_Martinelli_3.jpg,ORB,1337.7319,0.844393053661716,210.9245663419442,0.9191397642582821
+城市建築,Sao_Paulo_cityscape_from_Edificio_Martinelli_3.jpg,LoFTR,51.064594,0.980007852715771,1.067473394891063,0.9999988660130109

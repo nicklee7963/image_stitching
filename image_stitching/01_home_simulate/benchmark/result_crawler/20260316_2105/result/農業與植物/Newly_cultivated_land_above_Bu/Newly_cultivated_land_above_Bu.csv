@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Newly_cultivated_land_above_Butleigh_-_geograph.org.uk_-_2484599.jpg,SIFT,7.3343916,0.9957634247487506,0.660308196075799,0.9999949196853357
+農業與植物,Newly_cultivated_land_above_Butleigh_-_geograph.org.uk_-_2484599.jpg,ORB,125.951775,0.9535959175141361,1.9158612579855503,0.9998633782593909
+農業與植物,Newly_cultivated_land_above_Butleigh_-_geograph.org.uk_-_2484599.jpg,LoFTR,105.71334,0.9401504832900527,4.197859907658265,0.9992746075931362

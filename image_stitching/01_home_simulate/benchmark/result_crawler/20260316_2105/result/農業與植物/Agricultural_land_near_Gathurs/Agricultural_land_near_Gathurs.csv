@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_near_Gathurst_-_geograph.org.uk_-_5492938.jpg,SIFT,24.15859,0.9940868823993515,3.18753681395901,0.999971265075529
+農業與植物,Agricultural_land_near_Gathurst_-_geograph.org.uk_-_5492938.jpg,ORB,94.53028,0.9805891966131846,7.255208006557383,0.9997038123995999
+農業與植物,Agricultural_land_near_Gathurst_-_geograph.org.uk_-_5492938.jpg,LoFTR,58.93923,0.9849762813876893,0.6828295844625542,0.9999896964248408

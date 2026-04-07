@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg,SIFT,16.414513,0.9860558551256504,0.3899450219923892,0.9999895886634702
+城市建築,Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg,ORB,113.3916,0.9418262376306508,3.231339896774489,0.9993646051035171
+城市建築,Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg,LoFTR,28.915585,0.9862050289283472,0.3634943210127716,0.9999999539398997

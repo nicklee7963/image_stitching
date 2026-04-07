@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,An_aerial_photography_outing_of_the_Edinburgh_Young_Archaeologists'_Club.jpg,SIFT,11.380922,0.9957685042111261,0.4621258132527078,0.9998601913926226
+空拍俯視,An_aerial_photography_outing_of_the_Edinburgh_Young_Archaeologists'_Club.jpg,ORB,173.42418,0.9498725824137232,4.579221048449385,0.9878258442500983
+空拍俯視,An_aerial_photography_outing_of_the_Edinburgh_Young_Archaeologists'_Club.jpg,LoFTR,44.835346,0.9801796405846043,0.8553624030165015,0.9995541484215199

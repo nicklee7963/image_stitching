@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Waterlogged_land__Wilsthorpe_-_geograph.org.uk_-_4862920.jpg,SIFT,188.08224,0.9724421140257187,3.321633678357773,0.9991774678846836
+農業與植物,Waterlogged_land__Wilsthorpe_-_geograph.org.uk_-_4862920.jpg,ORB,224.57413,0.9658676468259749,1.3972681863368837,0.9999956770374379
+農業與植物,Waterlogged_land__Wilsthorpe_-_geograph.org.uk_-_4862920.jpg,LoFTR,103.05059,0.9852637470553526,0.19121997649099032,0.9999985784223743

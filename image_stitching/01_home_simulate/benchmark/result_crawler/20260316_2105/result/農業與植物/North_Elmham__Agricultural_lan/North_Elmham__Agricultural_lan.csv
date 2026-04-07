@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,North_Elmham__Agricultural_land_-_geograph.org.uk_-_6177943.jpg,SIFT,2.3741822,0.998439946772765,0.4424797757677602,0.9993195247162918
+農業與植物,North_Elmham__Agricultural_land_-_geograph.org.uk_-_6177943.jpg,ORB,1889.2246,0.7833880680243641,17.275760347308726,0.9023012917206511
+農業與植物,North_Elmham__Agricultural_land_-_geograph.org.uk_-_6177943.jpg,LoFTR,77.19605,0.9828203394705456,0.6433529289562953,0.9998284222209939

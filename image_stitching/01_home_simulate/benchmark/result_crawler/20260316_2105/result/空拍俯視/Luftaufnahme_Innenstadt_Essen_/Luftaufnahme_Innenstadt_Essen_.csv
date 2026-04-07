@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Luftaufnahme_Innenstadt_Essen_Blickrichtung_West_2014.jpg,SIFT,5.9522223,0.9970584940675531,0.18765059082740784,0.9999981163932801
+空拍俯視,Luftaufnahme_Innenstadt_Essen_Blickrichtung_West_2014.jpg,ORB,163.07198,0.946297280674434,1.6713363654592244,0.9990130239681034
+空拍俯視,Luftaufnahme_Innenstadt_Essen_Blickrichtung_West_2014.jpg,LoFTR,12667.887,0.36364192004251666,21091.963064328294,0.005762499648069453

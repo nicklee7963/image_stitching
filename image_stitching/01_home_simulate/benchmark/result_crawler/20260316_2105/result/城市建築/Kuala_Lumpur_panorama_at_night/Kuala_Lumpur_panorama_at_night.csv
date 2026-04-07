@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Kuala_Lumpur_panorama_at_night_from_Roofino_Sky_Dining.jpg,SIFT,18.927837,0.958695587731861,11.728392023015296,0.9993771294035697
+城市建築,Kuala_Lumpur_panorama_at_night_from_Roofino_Sky_Dining.jpg,ORB,177.58357,0.9581505295382079,3.572123856928546,0.9999996893869249
+城市建築,Kuala_Lumpur_panorama_at_night_from_Roofino_Sky_Dining.jpg,LoFTR,178.95367,0.9412816669349972,11.682760509123662,0.999969677289718

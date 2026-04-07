@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Zagedan_Lakes__Mountain_cirque__Caucasus_Mountains.jpg,SIFT,3.0696194,0.997996502013003,0.2140482443717997,0.9999987509294641
+自然風景,Zagedan_Lakes__Mountain_cirque__Caucasus_Mountains.jpg,ORB,192.01828,0.9638366314036735,1.6088253352446438,0.9998947454813322
+自然風景,Zagedan_Lakes__Mountain_cirque__Caucasus_Mountains.jpg,LoFTR,242.2083,0.9486514933213778,1.4849800050555193,0.9999917978719787

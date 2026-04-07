@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,1963_Indexes_to_Aerial_Photography_for_Cache_National_Forest__Sheet_11_-_DPLA_-_fa34c0780f936891d90e68fc663a308a.jpg,SIFT,91.15481,0.9888319492878136,0.9787117353343996,0.9999934701731715
+空拍俯視,1963_Indexes_to_Aerial_Photography_for_Cache_National_Forest__Sheet_11_-_DPLA_-_fa34c0780f936891d90e68fc663a308a.jpg,ORB,12155.287,0.742226645995707,159.26068903852385,0.9894058500324278
+空拍俯視,1963_Indexes_to_Aerial_Photography_for_Cache_National_Forest__Sheet_11_-_DPLA_-_fa34c0780f936891d90e68fc663a308a.jpg,LoFTR,8347.455,0.8165683983840847,130.26808578550654,-0.8886819727694821

@@ -1,0 +1,13 @@
+﻿Base_Image,Target_Image,Parallax_Angle,Total_Keypoints_Base,Total_Keypoints_Target,Good_Matches,RANSAC_Inliers,Inlier_Ratio,Status
+40.jpg,45.jpg,5,14345,14163,981,400,0.4077,Success
+40.jpg,50.jpg,10,14345,17939,688,242,0.3517,Success
+40.jpg,55.jpg,15,14345,18938,381,104,0.273,Success
+40.jpg,60.jpg,20,14345,21653,216,54,0.25,Success
+40.jpg,65.jpg,25,14345,18619,126,20,0.1587,Success
+40.jpg,70.jpg,30,14345,23774,107,19,0.1776,Success
+40.jpg,75.jpg,35,14345,20826,75,17,0.2267,Success
+40.jpg,80.jpg,40,14345,19477,72,6,0.0833,Success
+40.jpg,85.jpg,45,14345,16892,74,6,0.0811,Success
+40.jpg,90.jpg,50,14345,16042,91,6,0.0659,Collapsed (Matrix Blowup)
+40.jpg,95.jpg,55,14345,14321,80,7,0.0875,Success
+40.jpg,100.jpg,60,14345,11692,76,8,0.1053,Success

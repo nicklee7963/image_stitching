@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Balancing_rock__Atsgara_Valley__Mount_Zagedan__Caucasus_Mountains.jpg,SIFT,6.4112816,0.9926780653254874,0.41493549705155164,0.9999912065808998
+自然風景,Balancing_rock__Atsgara_Valley__Mount_Zagedan__Caucasus_Mountains.jpg,ORB,64.01399,0.926103197066781,2.196648118776499,0.9998426335104055
+自然風景,Balancing_rock__Atsgara_Valley__Mount_Zagedan__Caucasus_Mountains.jpg,LoFTR,8.219558,0.9911140850196811,1.2420673691792612,0.9999185677481636

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Kensett_-_Rocky_Landscape_(White_Mountain_Scene)_-_HNT.jpg,SIFT,144.89879,0.9270830835791282,14.799976189843784,0.9974809171090161
+自然風景,Kensett_-_Rocky_Landscape_(White_Mountain_Scene)_-_HNT.jpg,ORB,137.08504,0.9687725058738733,4.998390890009049,0.9993566347543787
+自然風景,Kensett_-_Rocky_Landscape_(White_Mountain_Scene)_-_HNT.jpg,LoFTR,91.570786,0.9787440879946543,1.4486743550925212,0.9999954405524591

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Jakarta_cityscape_during_night_time__taken_from_27th_floor;_2013.jpg,SIFT,334.09116,0.953945416801199,3.924884267453418,0.9977996486985953
+城市建築,Jakarta_cityscape_during_night_time__taken_from_27th_floor;_2013.jpg,ORB,469.55246,0.9389117688637068,9.78463514037836,0.9849477716843215
+城市建築,Jakarta_cityscape_during_night_time__taken_from_27th_floor;_2013.jpg,LoFTR,90.53158,0.9833262612633067,0.3102804871263462,0.9999829298518088

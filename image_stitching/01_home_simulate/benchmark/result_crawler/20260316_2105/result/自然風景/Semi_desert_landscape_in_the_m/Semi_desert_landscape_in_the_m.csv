@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Semi-desert_landscape_in_the_mountains_of_Russian_Altai.jpg,SIFT,8376.892,0.7992504530639877,76.4814006189247,0.9221684125094852
+自然風景,Semi-desert_landscape_in_the_mountains_of_Russian_Altai.jpg,ORB,21962.576,0.5691455057063661,262.384223445548,0.7903614871615754
+自然風景,Semi-desert_landscape_in_the_mountains_of_Russian_Altai.jpg,LoFTR,13196.479,0.6413421468280388,406.69931388486344,-0.7213796525237384

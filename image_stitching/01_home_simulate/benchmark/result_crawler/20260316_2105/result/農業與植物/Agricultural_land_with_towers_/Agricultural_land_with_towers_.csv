@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_with_towers_in_Pakistan.jpg,SIFT,156.64508,0.9753665994776902,5.013134149282547,0.9996327122290752
+農業與植物,Agricultural_land_with_towers_in_Pakistan.jpg,ORB,984.7278,0.8772322426222146,24.95604651635501,0.9999279714411363
+農業與植物,Agricultural_land_with_towers_in_Pakistan.jpg,LoFTR,144.64815,0.9493832094419324,14.023417662415364,0.9986879515738475

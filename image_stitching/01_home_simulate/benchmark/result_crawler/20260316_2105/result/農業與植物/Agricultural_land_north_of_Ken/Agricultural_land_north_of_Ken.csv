@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_north_of_Kendal_-_geograph.org.uk_-_2177290.jpg,SIFT,54.624203,0.9906121616878222,1.585068562707249,0.9998670622301796
+農業與植物,Agricultural_land_north_of_Kendal_-_geograph.org.uk_-_2177290.jpg,ORB,401.42838,0.9474558513850875,4.11548294228685,0.9993745827905484
+農業與植物,Agricultural_land_north_of_Kendal_-_geograph.org.uk_-_2177290.jpg,LoFTR,247.16176,0.9612637512602554,3.465327996854077,0.9992843487565793

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_shot_of_a_small_island_on_a_coral_reef_in_the_Maldives.jpg,SIFT,32.00061,0.985960636685521,2.7942693852025093,0.9998299724396693
+空拍俯視,Aerial_shot_of_a_small_island_on_a_coral_reef_in_the_Maldives.jpg,ORB,262.13745,0.9523484258083128,1.0003261520270428,0.9999887647360818
+空拍俯視,Aerial_shot_of_a_small_island_on_a_coral_reef_in_the_Maldives.jpg,LoFTR,204.62347,0.973883769663756,0.05647113135468192,0.9999999029434582

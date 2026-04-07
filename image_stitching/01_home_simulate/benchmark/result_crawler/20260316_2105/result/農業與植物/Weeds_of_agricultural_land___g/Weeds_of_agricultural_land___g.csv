@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Weeds_of_agricultural_land_-_geograph.org.uk_-_4049111.jpg,SIFT,4.9374967,0.9827222636477468,4.852460864958225,0.999998973469194
+農業與植物,Weeds_of_agricultural_land_-_geograph.org.uk_-_4049111.jpg,ORB,110.0419,0.9108806913754933,27.734676068865593,0.993278605646847
+農業與植物,Weeds_of_agricultural_land_-_geograph.org.uk_-_4049111.jpg,LoFTR,70.96206,0.9831840821290765,1.016171824286203,0.9999798242338612

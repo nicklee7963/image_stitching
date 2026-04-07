@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountain_landscape_near_the_Abudelauri_Lakes__Dusheti_Municipality.jpg,SIFT,7.0187387,0.996292576109542,0.39080061499801605,0.9999981496946144
+自然風景,Mountain_landscape_near_the_Abudelauri_Lakes__Dusheti_Municipality.jpg,ORB,240.46977,0.9593103760655031,2.2403035104966746,0.9999879065936883
+自然風景,Mountain_landscape_near_the_Abudelauri_Lakes__Dusheti_Municipality.jpg,LoFTR,129.39774,0.9855670312627633,0.10436890369029932,0.9999999290350869

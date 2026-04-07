@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Fritton__Agricultural_land_-_geograph.org.uk_-_6433685.jpg,SIFT,77.56217,0.9778525180320948,7.153217084869211,0.9968524044802024
+農業與植物,Fritton__Agricultural_land_-_geograph.org.uk_-_6433685.jpg,ORB,1849.3395,0.8810472538058717,56.805094479594906,0.7779345131207022
+農業與植物,Fritton__Agricultural_land_-_geograph.org.uk_-_6433685.jpg,LoFTR,88.39796,0.978867599940987,1.866791834215274,0.9999998960470718

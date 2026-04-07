@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountains_Landscape__Asturias__Spain__panoramic.jpg,SIFT,5.3147473,0.9898160811433938,0.6328393643228641,0.9999962024653123
+自然風景,Mountains_Landscape__Asturias__Spain__panoramic.jpg,ORB,454.15707,0.7905910346762565,4.45148754125711,0.9990505476975661
+自然風景,Mountains_Landscape__Asturias__Spain__panoramic.jpg,LoFTR,130.72144,0.9399625086049457,2.7879000109393743,0.9992469381965771

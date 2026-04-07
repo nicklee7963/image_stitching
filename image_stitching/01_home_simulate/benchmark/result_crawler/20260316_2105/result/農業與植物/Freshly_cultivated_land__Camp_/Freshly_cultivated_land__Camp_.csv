@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Freshly_cultivated_land__Camp_Hill_-_geograph.org.uk_-_1005800.jpg,SIFT,42582.72,0.0328203947076214,270.4144916547723,0.13326849130901608
+農業與植物,Freshly_cultivated_land__Camp_Hill_-_geograph.org.uk_-_1005800.jpg,ORB,12317.965,0.49077836926196955,599.789743214589,-0.022950820386281594
+農業與植物,Freshly_cultivated_land__Camp_Hill_-_geograph.org.uk_-_1005800.jpg,LoFTR,451.34528,0.9591499204400938,3.1364775268114715,0.9998936851316539

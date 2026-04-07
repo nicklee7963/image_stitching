@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,North_Park__San_Diego__California__Sunset_Drone_Photography.jpg,SIFT,65025.0,0.0,500.0,0.0
+空拍俯視,North_Park__San_Diego__California__Sunset_Drone_Photography.jpg,ORB,1263.4193115234375,0.602759973168289,196.33452104635538,-0.9621033202769483
+空拍俯視,North_Park__San_Diego__California__Sunset_Drone_Photography.jpg,LoFTR,761.2642211914062,0.7436891075010988,302.81401964037866,0.5694192642623993

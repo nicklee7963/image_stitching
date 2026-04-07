@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Grenade_Albayzin_depuis_Alhambra_Espagne.jpg,SIFT,1.4408617,0.998760004641989,0.11048703816139663,0.9999999680872114
+城市建築,Grenade_Albayzin_depuis_Alhambra_Espagne.jpg,ORB,199.13983,0.9631341279939101,0.7727598258267646,0.9999542753533892
+城市建築,Grenade_Albayzin_depuis_Alhambra_Espagne.jpg,LoFTR,147.79187,0.9828433311356093,0.17829167429584175,0.9999976226545405

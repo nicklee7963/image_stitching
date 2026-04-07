@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_beside_river_in_Llanuwchllyn_-_geograph.org.uk_-_3670150.jpg,SIFT,18.16597,0.9952744222665005,0.33861463042966006,0.9999925971694585
+農業與植物,Agricultural_land_beside_river_in_Llanuwchllyn_-_geograph.org.uk_-_3670150.jpg,ORB,163.19264,0.9671244482050257,0.845667519821299,0.999881164608982
+農業與植物,Agricultural_land_beside_river_in_Llanuwchllyn_-_geograph.org.uk_-_3670150.jpg,LoFTR,141.03888,0.9750381585905634,0.25519983323163403,0.9999999757127553

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Palm_Springs_International_Airport_photo_Don_Ramey_Logan.jpg,SIFT,1.8203595,0.9964628535259461,1.0958850497712473,0.9999944169798962
+空拍俯視,Palm_Springs_International_Airport_photo_Don_Ramey_Logan.jpg,ORB,320.72272,0.8781869185560844,7.573313870445813,0.9942259690352391
+空拍俯視,Palm_Springs_International_Airport_photo_Don_Ramey_Logan.jpg,LoFTR,74.24495,0.9823727960905259,0.5402739468193462,0.9999785639284768

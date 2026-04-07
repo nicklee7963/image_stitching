@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Landscape_of_Luang_Prabang_with_a_temporary_wooden_footbridge.jpg,SIFT,4.461858,0.989134848043983,3.305797513733206,0.999965809646612
+自然風景,Landscape_of_Luang_Prabang_with_a_temporary_wooden_footbridge.jpg,ORB,56.303432,0.9744252030219547,0.6669271736294871,0.9999859826877006
+自然風景,Landscape_of_Luang_Prabang_with_a_temporary_wooden_footbridge.jpg,LoFTR,52.81551,0.9820290137644435,1.5794239943684567,0.9999992130025801

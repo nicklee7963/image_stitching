@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Thomas_Stuart_Smith_(1813-1814-1869)_-_Mountain_Landscape_-_18002.010_-_Stirling_Smith_Museum_and_Art_Gallery.jpg,SIFT,48.50097,0.9906895929018167,1.6825341500223325,0.9998641110240457
+自然風景,Thomas_Stuart_Smith_(1813-1814-1869)_-_Mountain_Landscape_-_18002.010_-_Stirling_Smith_Museum_and_Art_Gallery.jpg,ORB,347.1053,0.9609986625101901,2.5548906241672147,0.9999688054608044
+自然風景,Thomas_Stuart_Smith_(1813-1814-1869)_-_Mountain_Landscape_-_18002.010_-_Stirling_Smith_Museum_and_Art_Gallery.jpg,LoFTR,87.66082,0.9842736699102251,0.4244986810427793,0.9999522550611318

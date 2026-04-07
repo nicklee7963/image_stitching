@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_England_-_geograph.org.uk_-_1937199.jpg,SIFT,28.150517,0.9905066212660242,0.9151791996915043,0.9999579587225649
+農業與植物,Agricultural_England_-_geograph.org.uk_-_1937199.jpg,ORB,431.37427,0.8822740538035415,8.276158665578606,0.9969416144770282
+農業與植物,Agricultural_England_-_geograph.org.uk_-_1937199.jpg,LoFTR,69.964554,0.9847478991167413,0.6202883722879572,0.9999695186555139

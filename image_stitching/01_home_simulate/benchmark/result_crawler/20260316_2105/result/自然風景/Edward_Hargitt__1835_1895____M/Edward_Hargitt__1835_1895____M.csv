@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Edward_Hargitt_(1835-1895)_-_Mountain_Landscape_-_3119_-_Glasgow_Museums_Resource_Centre.jpg,SIFT,2050.664,0.7080224813413102,191.5210964042507,0.4442166182991838
+自然風景,Edward_Hargitt_(1835-1895)_-_Mountain_Landscape_-_3119_-_Glasgow_Museums_Resource_Centre.jpg,ORB,1582.4114,0.7635259182920018,65.14470546819085,-0.22295230971948127
+自然風景,Edward_Hargitt_(1835-1895)_-_Mountain_Landscape_-_3119_-_Glasgow_Museums_Resource_Centre.jpg,LoFTR,148.58192,0.9470443277032159,8.92785207281938,0.9429858297123873

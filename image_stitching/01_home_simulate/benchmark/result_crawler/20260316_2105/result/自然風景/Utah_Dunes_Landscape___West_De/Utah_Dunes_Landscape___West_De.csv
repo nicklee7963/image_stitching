@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Utah_Dunes_Landscape_-_West_Desert_District.jpg,SIFT,138.97586,0.9898434172421561,3.126331697755288,0.9995399851045288
+自然風景,Utah_Dunes_Landscape_-_West_Desert_District.jpg,ORB,1676.2869,0.9066522836361738,6.5256064815294454,0.9967730309430716
+自然風景,Utah_Dunes_Landscape_-_West_Desert_District.jpg,LoFTR,499.2531,0.9598758186407291,4.102305470282983,0.9998299149967569

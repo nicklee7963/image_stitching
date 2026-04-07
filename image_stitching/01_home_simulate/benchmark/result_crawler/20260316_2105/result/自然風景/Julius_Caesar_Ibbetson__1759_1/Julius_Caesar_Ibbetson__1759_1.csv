@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Julius_Caesar_Ibbetson_(1759-1817)_-_Mountain_Landscape_-_VIS.2219_-_Sheffield_Galleries_and_Museums_Trust.jpg,SIFT,52.581535,0.9320141542397804,2.672324433832356,0.9996903087881969
+自然風景,Julius_Caesar_Ibbetson_(1759-1817)_-_Mountain_Landscape_-_VIS.2219_-_Sheffield_Galleries_and_Museums_Trust.jpg,ORB,1643.8341,0.46550007804129656,397.95395501090076,0.952164744502813
+自然風景,Julius_Caesar_Ibbetson_(1759-1817)_-_Mountain_Landscape_-_VIS.2219_-_Sheffield_Galleries_and_Museums_Trust.jpg,LoFTR,147.17795,0.9740198812901776,0.42719223530917216,0.9999959365407892

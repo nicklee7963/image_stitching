@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Ziteil__aerial_photography__from_east.jpg,SIFT,5267.506,0.5419261335517899,669.7137776034017,0.8127410494369679
+空拍俯視,Ziteil__aerial_photography__from_east.jpg,ORB,529.9655,0.8951703771763168,13.980236743938518,0.9979490663274747
+空拍俯視,Ziteil__aerial_photography__from_east.jpg,LoFTR,107.55173,0.9853770549133866,0.3868604706695066,0.9999885796636954

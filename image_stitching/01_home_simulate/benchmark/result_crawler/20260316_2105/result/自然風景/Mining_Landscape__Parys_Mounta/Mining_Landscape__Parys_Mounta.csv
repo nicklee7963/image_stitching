@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mining_Landscape__Parys_Mountain_-_geograph.org.uk_-_5808949.jpg,SIFT,0.89604497,0.997831752283324,2.215974900753222,0.9999907369717392
+自然風景,Mining_Landscape__Parys_Mountain_-_geograph.org.uk_-_5808949.jpg,ORB,53.5139,0.9824338559297746,2.255444332321218,0.9996201147888033
+自然風景,Mining_Landscape__Parys_Mountain_-_geograph.org.uk_-_5808949.jpg,LoFTR,49.70465,0.986512860808799,0.2989287185054594,0.9999937674156665

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Unmanned_aerial_vehicle_aerial_photography_30.jpg,SIFT,65025.0,0.0,500.0,0.0
+空拍俯視,Unmanned_aerial_vehicle_aerial_photography_30.jpg,ORB,446.7635498046875,0.58177185551323,194.0951702576049,0.6013817601652134
+空拍俯視,Unmanned_aerial_vehicle_aerial_photography_30.jpg,LoFTR,130.86512756347656,0.8624489585664931,19.702108779345846,0.9437975219448188

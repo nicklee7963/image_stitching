@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Flat_agricultural_land_north_of_Haxey_-_geograph.org.uk_-_6510623.jpg,SIFT,169.46931,0.8881068126284545,16.49976142143329,0.9993599711683937
+農業與植物,Flat_agricultural_land_north_of_Haxey_-_geograph.org.uk_-_6510623.jpg,ORB,236.12938,0.8372029096168346,23.718992344729667,0.9986032961516665
+農業與植物,Flat_agricultural_land_north_of_Haxey_-_geograph.org.uk_-_6510623.jpg,LoFTR,4.222385,0.984471847281405,3.3617212763303637,0.9999363988371401

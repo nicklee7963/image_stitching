@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Swiss_Camp_(Greenland)__aerial_photography_4.jpg,SIFT,449.35388,0.9723691240816774,5.187772415728035,0.9934986483889624
+空拍俯視,Swiss_Camp_(Greenland)__aerial_photography_4.jpg,ORB,2595.3745,0.9082899265218494,43.40800064415699,0.27344742175255143
+空拍俯視,Swiss_Camp_(Greenland)__aerial_photography_4.jpg,LoFTR,1585.6626,0.9270361231254769,3.009983719585601,0.999674921803498

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Formerly_cultivated_land_northwest_of_Hallaig_-_geograph.org.uk_-_3912411.jpg,SIFT,38965.363,0.23740856265973004,364.68768936252746,-0.9343249781967287
+農業與植物,Formerly_cultivated_land_northwest_of_Hallaig_-_geograph.org.uk_-_3912411.jpg,ORB,40929.82,0.06416056706079286,119.71684689229261,-0.4565369359377429
+農業與植物,Formerly_cultivated_land_northwest_of_Hallaig_-_geograph.org.uk_-_3912411.jpg,LoFTR,63.039215,0.9853716180648044,0.8367852840870483,0.9999895679015605

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Carl_Spitzweg_(1808-1885)_-_Mountain_Landscape_-_WA1954.70.164_-_Ashmolean_Museum.jpg,SIFT,1017.1408,0.4939492482089813,859.9524079588623,-0.13778722506822774
+自然風景,Carl_Spitzweg_(1808-1885)_-_Mountain_Landscape_-_WA1954.70.164_-_Ashmolean_Museum.jpg,ORB,1038.1525,0.6261580195227388,190.52162162265876,0.17231965893011986
+自然風景,Carl_Spitzweg_(1808-1885)_-_Mountain_Landscape_-_WA1954.70.164_-_Ashmolean_Museum.jpg,LoFTR,52.543877,0.9846259041267971,0.07549072844492223,0.999999818191539

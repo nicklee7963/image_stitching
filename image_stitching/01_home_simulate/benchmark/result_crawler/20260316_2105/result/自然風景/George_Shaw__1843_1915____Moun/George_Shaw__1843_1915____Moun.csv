@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,George_Shaw_(1843-1915)_-_Mountain_Landscape_-_1400_-_North_Down_Museum.jpg,SIFT,65025.0,0.0,500.0,0.0
+自然風景,George_Shaw_(1843-1915)_-_Mountain_Landscape_-_1400_-_North_Down_Museum.jpg,ORB,483.7568664550781,0.6016847411065026,73.20978578361564,-0.6589077353411683
+自然風景,George_Shaw_(1843-1915)_-_Mountain_Landscape_-_1400_-_North_Down_Museum.jpg,LoFTR,467.0350036621094,0.33349444318823973,473.388762579462,-0.47453728987994626

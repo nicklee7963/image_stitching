@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Bombardement_du_Grand_Bé_par_des_B-24_Liberators_de_la_8th_Air_Force_américaine_en_août_1944..jpg,SIFT,4.6892858,0.9947010127202096,0.7677729096999402,0.9999435691544416
+空拍俯視,Bombardement_du_Grand_Bé_par_des_B-24_Liberators_de_la_8th_Air_Force_américaine_en_août_1944..jpg,ORB,44.48706,0.979899656882947,0.3646521451346327,0.9999957674392699
+空拍俯視,Bombardement_du_Grand_Bé_par_des_B-24_Liberators_de_la_8th_Air_Force_américaine_en_août_1944..jpg,LoFTR,34.9424,0.9872902286078066,0.27461084189813184,0.9999895694839067

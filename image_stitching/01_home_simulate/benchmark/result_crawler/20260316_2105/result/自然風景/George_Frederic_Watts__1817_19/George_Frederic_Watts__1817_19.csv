@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,George_Frederic_Watts_(1817-1904)_-_Mountain_Landscape_-_1939.32.2_-_The_Tullie.jpg,SIFT,1.3799738,0.9938036042161007,1.8813725771046965,0.9998619190835145
+自然風景,George_Frederic_Watts_(1817-1904)_-_Mountain_Landscape_-_1939.32.2_-_The_Tullie.jpg,ORB,299.2118,0.8798762596282084,12.459994107380792,0.9999984543261865
+自然風景,George_Frederic_Watts_(1817-1904)_-_Mountain_Landscape_-_1939.32.2_-_The_Tullie.jpg,LoFTR,83.24984,0.9754282393480134,0.7602824258549353,0.999999871728006

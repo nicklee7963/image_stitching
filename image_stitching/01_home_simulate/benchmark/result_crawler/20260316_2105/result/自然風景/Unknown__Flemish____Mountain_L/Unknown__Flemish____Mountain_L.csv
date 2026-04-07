@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Unknown_(Flemish)_-_Mountain_Landscape_-_38.82_-_Detroit_Institute_of_Arts.jpg,SIFT,3.8838239,0.9979267600925733,0.24747921562355754,0.9999997516355026
+自然風景,Unknown_(Flemish)_-_Mountain_Landscape_-_38.82_-_Detroit_Institute_of_Arts.jpg,ORB,207.75261,0.9600701386924609,0.9831754796556617,0.9999607601814549
+自然風景,Unknown_(Flemish)_-_Mountain_Landscape_-_38.82_-_Detroit_Institute_of_Arts.jpg,LoFTR,65.17151,0.9858047108046358,0.32697530204953223,0.9999942783617931

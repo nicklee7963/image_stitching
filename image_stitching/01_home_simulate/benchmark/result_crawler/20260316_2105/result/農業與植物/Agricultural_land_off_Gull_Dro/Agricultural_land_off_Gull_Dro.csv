@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_off_Gull_Drove__Guyhirn_-_geograph.org.uk_-_2368633.jpg,SIFT,4495.318,0.5603721410062775,466.12872590747713,0.9992478252437874
+農業與植物,Agricultural_land_off_Gull_Drove__Guyhirn_-_geograph.org.uk_-_2368633.jpg,ORB,216.66023,0.9155029656481146,8.988777448017434,0.999157153708193
+農業與植物,Agricultural_land_off_Gull_Drove__Guyhirn_-_geograph.org.uk_-_2368633.jpg,LoFTR,121.867966,0.9783015315978097,3.52254079628584,0.9999921988791959

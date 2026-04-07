@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,San_Francisco_cityscape_and_East_Bay__from_Twin_Peaks__above_the_Castro.jpg,SIFT,13139.706,0.6712740396762393,28558.099303013307,-0.8106830899402161
+城市建築,San_Francisco_cityscape_and_East_Bay__from_Twin_Peaks__above_the_Castro.jpg,ORB,8338.415,0.690611002410855,1542.8161097794364,-0.883843020474768
+城市建築,San_Francisco_cityscape_and_East_Bay__from_Twin_Peaks__above_the_Castro.jpg,LoFTR,78.3036,0.9529237939710197,9.712494848690925,0.9999069770156784

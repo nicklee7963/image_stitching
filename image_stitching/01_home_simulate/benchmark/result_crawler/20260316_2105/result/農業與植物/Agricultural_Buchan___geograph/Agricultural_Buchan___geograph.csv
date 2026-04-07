@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_Buchan_-_geograph.org.uk_-_725740.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Agricultural_Buchan_-_geograph.org.uk_-_725740.jpg,ORB,929.1195068359375,0.6274813086692941,201.84249624935282,0.16474109411119495
+農業與植物,Agricultural_Buchan_-_geograph.org.uk_-_725740.jpg,LoFTR,66.43350219726562,0.9765151738727257,2.3932130999786265,0.9991523781322745

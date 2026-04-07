@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land__Knott_Oak_-_geograph.org.uk_-_2474190.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Cultivated_land__Knott_Oak_-_geograph.org.uk_-_2474190.jpg,ORB,65025.0,0.0,500.0,0.0
+農業與植物,Cultivated_land__Knott_Oak_-_geograph.org.uk_-_2474190.jpg,LoFTR,64.27741241455078,0.9753723560718326,3.8851435456221384,0.9993410168508168

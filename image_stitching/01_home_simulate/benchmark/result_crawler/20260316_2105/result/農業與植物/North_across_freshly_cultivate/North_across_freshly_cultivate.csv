@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,North_across_freshly_cultivated_land_-_geograph.org.uk_-_592179.jpg,SIFT,328.01044,0.9704902200070145,3.6897424152282694,0.9999483276534131
+農業與植物,North_across_freshly_cultivated_land_-_geograph.org.uk_-_592179.jpg,ORB,1939.3485,0.9094569731891592,9.927695627365912,0.9999128297952595
+農業與植物,North_across_freshly_cultivated_land_-_geograph.org.uk_-_592179.jpg,LoFTR,168.18787,0.9806248501075705,0.424854827372441,0.9999959273667894

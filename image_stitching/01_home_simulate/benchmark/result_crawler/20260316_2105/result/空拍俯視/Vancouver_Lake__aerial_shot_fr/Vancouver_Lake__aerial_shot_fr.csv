@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Vancouver_Lake__aerial_shot_from_Oregon.jpg,SIFT,167.81094,0.9544697641815085,10.339268410546829,0.9994582831788927
+空拍俯視,Vancouver_Lake__aerial_shot_from_Oregon.jpg,ORB,3936.8665,0.3321878969816772,137.29421666583974,0.9969510355763522
+空拍俯視,Vancouver_Lake__aerial_shot_from_Oregon.jpg,LoFTR,121.1664,0.9531796873191374,2.7303009209016023,0.9999981963435155

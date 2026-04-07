@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountain_landscape_in_Khan_Tengri_Nature_Park__Tien_Shan_-_Aerial_View.jpg,SIFT,3.7916071,0.997186540397549,0.17361044748443222,0.9999974266755728
+自然風景,Mountain_landscape_in_Khan_Tengri_Nature_Park__Tien_Shan_-_Aerial_View.jpg,ORB,444.85434,0.833624922175275,4.620422965101961,0.9999125619203406
+自然風景,Mountain_landscape_in_Khan_Tengri_Nature_Park__Tien_Shan_-_Aerial_View.jpg,LoFTR,76.1116,0.9844702902865936,0.7906889824900584,0.9999964500283032

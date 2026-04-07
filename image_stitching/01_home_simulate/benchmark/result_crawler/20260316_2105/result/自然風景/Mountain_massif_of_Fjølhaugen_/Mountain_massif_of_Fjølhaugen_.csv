@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountain_massif_of_Fjølhaugen_at_Knutevika_in_Senja__Troms__Norway__2015_September.jpg,SIFT,6.622517,0.9930790570930502,0.44775192851442897,0.9999960960723732
+自然風景,Mountain_massif_of_Fjølhaugen_at_Knutevika_in_Senja__Troms__Norway__2015_September.jpg,ORB,109.795944,0.9682130123315063,0.48712384712464113,0.999992841276245
+自然風景,Mountain_massif_of_Fjølhaugen_at_Knutevika_in_Senja__Troms__Norway__2015_September.jpg,LoFTR,437.37912,0.7882076156721814,4.77870463046379,0.9968068956467317

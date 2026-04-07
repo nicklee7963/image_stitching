@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Khane_emam_jome_living_room_interiors_indoor_pool.jpg,SIFT,407.18933,0.9669560761333188,1.3360613253230778,0.9999782811299043
+室內場景,Khane_emam_jome_living_room_interiors_indoor_pool.jpg,ORB,1152.682,0.9170986854772031,3.061960181424593,0.9995255663197794
+室內場景,Khane_emam_jome_living_room_interiors_indoor_pool.jpg,LoFTR,431.02652,0.9527779782634485,5.14111994424279,0.9979119670645088

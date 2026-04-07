@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Bangkok_Skyline_from_Emquartier__Phrom_Phong.jpg,SIFT,4.002349,0.9930718753968625,1.1381942633288376,0.9999218294511096
+城市建築,Bangkok_Skyline_from_Emquartier__Phrom_Phong.jpg,ORB,169.43695,0.8718643962515114,18.720260781551705,0.9949986976666405
+城市建築,Bangkok_Skyline_from_Emquartier__Phrom_Phong.jpg,LoFTR,31.685656,0.9829183450867434,1.777715300701332,0.9998986717352757

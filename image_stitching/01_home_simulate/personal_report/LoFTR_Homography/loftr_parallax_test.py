@@ -9,8 +9,8 @@ import kornia.feature as KF
 # ==========================================
 # 1. 初始化與路徑設定
 # ==========================================
-IMG_DIR = "../../image/tv_desk"
-OUTPUT_DIR = "."
+IMG_DIR = "../../benchmark/image_simulation/single_translation"
+OUTPUT_DIR = "result_simulation/single_translation"
 CSV_PATH = os.path.join(OUTPUT_DIR, "loftr_parallax_metrics.csv")
 
 BASE_IMG_NAME = "40.jpg"
@@ -21,7 +21,7 @@ if base_img is None:
     print(f"❌ 找不到基準圖片: {base_img_path}")
     exit()
 
-TARGET_IMGS = [45, 50, 55, 60, 65, 70]
+TARGET_IMGS = [45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
 results = []
 
 print("🤖 正在載入 LoFTR 模型進入 GPU...")

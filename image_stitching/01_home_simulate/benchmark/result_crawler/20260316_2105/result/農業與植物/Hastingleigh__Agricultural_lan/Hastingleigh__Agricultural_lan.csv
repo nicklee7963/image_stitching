@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Hastingleigh__Agricultural_land_-_geograph.org.uk_-_6268299.jpg,SIFT,983.11676,0.26195256298892877,440.96799806921587,0.7941729997757384
+農業與植物,Hastingleigh__Agricultural_land_-_geograph.org.uk_-_6268299.jpg,ORB,673.3267,0.5338772878066247,146.53612347445647,0.7799315604256011
+農業與植物,Hastingleigh__Agricultural_land_-_geograph.org.uk_-_6268299.jpg,LoFTR,2343.9407,0.35173315138782707,294.43030115175384,0.5879790087468968

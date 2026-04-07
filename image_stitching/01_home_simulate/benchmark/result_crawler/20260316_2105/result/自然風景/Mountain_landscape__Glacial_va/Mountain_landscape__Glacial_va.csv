@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountain_landscape__Glacial_valley__Ergaki__Sayan_Mountains__Siberia.jpg,SIFT,2.3166752,0.9967623055832313,0.6987176486294734,0.9999999279795532
+自然風景,Mountain_landscape__Glacial_valley__Ergaki__Sayan_Mountains__Siberia.jpg,ORB,37.172886,0.976757654532,1.157727700376816,0.9999589371314399
+自然風景,Mountain_landscape__Glacial_valley__Ergaki__Sayan_Mountains__Siberia.jpg,LoFTR,35.445137,0.9806100879558098,0.2397386565983721,0.9999994382587972

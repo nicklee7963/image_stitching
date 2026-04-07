@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,NIMH_-_2155_013982_-_Aerial_photograph_of_Medemblik__The_Netherlands.jpg,SIFT,4.4422607,0.9963026384883238,0.20474255374666656,0.9999998975145674
+空拍俯視,NIMH_-_2155_013982_-_Aerial_photograph_of_Medemblik__The_Netherlands.jpg,ORB,672.60693,0.9087645262557912,3.578784595707816,0.9999644307698323
+空拍俯視,NIMH_-_2155_013982_-_Aerial_photograph_of_Medemblik__The_Netherlands.jpg,LoFTR,140.52602,0.9837956743261017,0.06099387099780671,0.9999999905366341

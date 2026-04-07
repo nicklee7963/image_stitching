@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,KeizersgrachtReguliersgrachtAmsterdam.jpg,SIFT,39.669533,0.9840766563243198,0.9030545585728615,0.9998441356850576
+城市建築,KeizersgrachtReguliersgrachtAmsterdam.jpg,ORB,112.67104,0.9627865690740135,2.629900824602633,0.9930976344058093
+城市建築,KeizersgrachtReguliersgrachtAmsterdam.jpg,LoFTR,79.315025,0.9825512683166439,0.1806183571145686,0.9999753733453716

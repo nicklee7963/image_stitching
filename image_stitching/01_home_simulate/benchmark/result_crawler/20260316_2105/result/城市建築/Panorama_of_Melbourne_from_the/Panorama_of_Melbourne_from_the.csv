@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Panorama_of_Melbourne_from_the_shrine_of_remembrance.jpg,SIFT,102.409874,0.9709959509109084,3.0959141065298352,0.999292460401756
+城市建築,Panorama_of_Melbourne_from_the_shrine_of_remembrance.jpg,ORB,908.8375,0.7772535258087913,27.814490950642703,0.9761960938990738
+城市建築,Panorama_of_Melbourne_from_the_shrine_of_remembrance.jpg,LoFTR,317.622,0.852916056049888,20.433851599945644,0.9958624342233898

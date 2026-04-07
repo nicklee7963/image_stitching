@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_at_Shanwell_farm_-_geograph.org.uk_-_2352984.jpg,SIFT,65025.0,0.0,500.0,0.0
+農業與植物,Agricultural_land_at_Shanwell_farm_-_geograph.org.uk_-_2352984.jpg,ORB,562.7014770507812,0.39632604853140424,163.033568400374,0.588128966858333
+農業與植物,Agricultural_land_at_Shanwell_farm_-_geograph.org.uk_-_2352984.jpg,LoFTR,680.563720703125,0.496901558916404,83.42795310656948,0.9464918448079397

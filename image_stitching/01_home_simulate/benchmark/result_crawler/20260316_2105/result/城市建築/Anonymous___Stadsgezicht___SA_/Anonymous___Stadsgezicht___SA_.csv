@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Anonymous_-_Stadsgezicht_-_SA_38086_-_Amsterdam_Museum.jpg,SIFT,8792.115,0.8134463760458273,826.1947740600266,-0.6299772099707516
+城市建築,Anonymous_-_Stadsgezicht_-_SA_38086_-_Amsterdam_Museum.jpg,ORB,7062.5293,0.8309101942543003,172.5023402037751,0.5026834975307404
+城市建築,Anonymous_-_Stadsgezicht_-_SA_38086_-_Amsterdam_Museum.jpg,LoFTR,457.96912,0.9658292740595142,10.379226625525007,0.9913427301574121

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,NIMH_-_2011_-_9903-24-02_-_Aerial_photograph_of_Borculo__The_Netherlands.jpg,SIFT,0.96789616,0.9989910876011847,0.42318734086564974,0.999992751486531
+空拍俯視,NIMH_-_2011_-_9903-24-02_-_Aerial_photograph_of_Borculo__The_Netherlands.jpg,ORB,47.801403,0.9808798814533979,0.5893904518548873,0.999982658980927
+空拍俯視,NIMH_-_2011_-_9903-24-02_-_Aerial_photograph_of_Borculo__The_Netherlands.jpg,LoFTR,43.07987,0.9838022416478664,1.464267669255758,0.999948414164266

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,Arlington_House_-_Deodar_cedar_in_work_yard_at_rear_-_Arlington_National_Cemtery_-_2012.jpg,SIFT,69.17785,0.9911731532533609,2.0092246471898814,0.9997956675364124
+室內場景,Arlington_House_-_Deodar_cedar_in_work_yard_at_rear_-_Arlington_National_Cemtery_-_2012.jpg,ORB,250.84578,0.9585559930008836,1.1316838524220134,0.9999478364235479
+室內場景,Arlington_House_-_Deodar_cedar_in_work_yard_at_rear_-_Arlington_National_Cemtery_-_2012.jpg,LoFTR,363.65402,0.9598071277064113,4.11391536860608,0.9992928736186162

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Once_cultivated_land_-_geograph.org.uk_-_4956604.jpg,SIFT,16.42819,0.9956721114966789,1.7831544039564289,0.9998823703093828
+農業與植物,Once_cultivated_land_-_geograph.org.uk_-_4956604.jpg,ORB,360.21945,0.9616180853297096,6.850209168483422,0.9981810091664025
+農業與植物,Once_cultivated_land_-_geograph.org.uk_-_4956604.jpg,LoFTR,138.60143,0.9828209217604501,0.5743313743064651,0.9999882724078056

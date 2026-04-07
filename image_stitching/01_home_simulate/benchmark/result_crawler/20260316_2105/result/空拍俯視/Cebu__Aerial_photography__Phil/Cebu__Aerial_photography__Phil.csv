@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Cebu__Aerial_photography__Philippines.jpg,SIFT,6.2450676,0.9920156350208916,0.7242615178127707,0.9999500671890015
+空拍俯視,Cebu__Aerial_photography__Philippines.jpg,ORB,220.27145,0.9380140257482725,13.043110076934449,0.9517481300165666
+空拍俯視,Cebu__Aerial_photography__Philippines.jpg,LoFTR,82.863075,0.9770371748402308,0.6335804021376457,0.9998924690045861

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Sunny_mist_in_the_mountains_at_golden_hour__South-West_view_from_Mount_Nam_Xay__Vang_Vieng__Laos.jpg,SIFT,39.062664,0.9453862945520228,6.883580914489306,0.9935782576919624
+自然風景,Sunny_mist_in_the_mountains_at_golden_hour__South-West_view_from_Mount_Nam_Xay__Vang_Vieng__Laos.jpg,ORB,627.94434,0.7019597064263957,72.47964235387386,0.19383530027607182
+自然風景,Sunny_mist_in_the_mountains_at_golden_hour__South-West_view_from_Mount_Nam_Xay__Vang_Vieng__Laos.jpg,LoFTR,196.69402,0.828652600856491,21.66238674597403,0.9916285801553697

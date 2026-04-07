@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg,SIFT,0.42917138,0.9983704940788124,0.7038367437721692,0.99997826750537
+自然風景,Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg,ORB,42.7043,0.943810248152927,4.652749346540365,0.9988906308153371
+自然風景,Cheops_Mountain_seen_the_Sir_Donald_Trail.jpg,LoFTR,47.209583,0.9179390765191368,3.583429467906097,0.9999322950769155

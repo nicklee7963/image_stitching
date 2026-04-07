@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+室內場景,South_Slave_Quarters_north_side_artwork_02_-_Arlington_House_-_Arlington_National_Cemtery_-_2012.jpg,SIFT,297.8957,0.3185892576190465,477.1527936056377,-0.5883037874670045
+室內場景,South_Slave_Quarters_north_side_artwork_02_-_Arlington_House_-_Arlington_National_Cemtery_-_2012.jpg,ORB,612.72394,0.43077191250671604,310.76765290295754,-0.7537627120174655
+室內場景,South_Slave_Quarters_north_side_artwork_02_-_Arlington_House_-_Arlington_National_Cemtery_-_2012.jpg,LoFTR,294.6476,0.961951409742797,0.5890268609753025,0.9999690666560037

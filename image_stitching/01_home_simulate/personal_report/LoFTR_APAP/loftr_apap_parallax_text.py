@@ -9,9 +9,12 @@ import kornia.feature as KF
 # ==========================================
 # 1. 初始化與路徑設定
 # ==========================================
-IMG_DIR = "../../image/tv_desk"
-OUTPUT_DIR = "."
+IMG_DIR = "../../benchmark/image_simulation/single_translation"
+OUTPUT_DIR = "result/single_translation"
 CSV_PATH = os.path.join(OUTPUT_DIR, "loftr_apap_parallax_metrics.csv")
+
+# 確保輸出資料夾存在
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 BASE_IMG_NAME = "40.jpg"
 base_img_path = os.path.join(IMG_DIR, BASE_IMG_NAME)
@@ -21,17 +24,12 @@ if base_img is None:
     print(f"❌ 找不到基準圖片: {base_img_path}")
     exit()
 
-TARGET_IMGS = [45, 50, 55, 60, 65, 70]
+TARGET_IMGS = list(range(45, 105, 5))
 results = []
 
 print("🤖 正在載入 LoFTR 模型進入 GPU...")
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 matcher = KF.LoFTR(pretrained='outdoor').to(device).eval()
-
-# ==========================================
-# 2. APAP 參數對比設定 (A/B Test)
-# ==========================================
-# 定義兩種不同的 APAP 參數性格
 
 # ==========================================
 # 2. APAP 參數對比設定 (極限 A/B Test)
@@ -40,21 +38,18 @@ APAP_CONFIGS = [
     {
         "name": "Rigid", 
         "cell_size": 50, 
-        "sigma_factor": 0.1,   # 參數極大：牽一髮動全身，強迫維持傳統的死板矩陣
-        "gamma": 0.1,          # 權重極大：完全不允許局部變形
-        "color": (0, 0, 255)   # 紅色標題
+        "sigma_factor": 0.1,   
+        "gamma": 0.1,          
+        "color": (0, 0, 255)   # 紅色
     },
     {
         "name": "Extreme_Jelly", 
-        "cell_size": 15,       # 網格切超細 (15x15 pixel 一格)，讓它有空間極度扭曲
-        "sigma_factor": 0.003, # 參數極小：特徵點只會拉扯自己周圍「極小」範圍的像素
-        "gamma": 1e-6,         # 趨近於 0：徹底解除全局形狀的束縛，讓它隨便扭
-        "color": (0, 255, 0)   # 綠色標題
+        "cell_size": 15,       # 網格切細
+        "sigma_factor": 0.05,  # 📍 關鍵修改：放大特徵點影響半徑，讓局部網格互相拉扯
+        "gamma": 0.001,        # 📍 關鍵修改：提高全局底線，避免算法退化成 Global H
+        "color": (0, 255, 0)   # 綠色
     }
 ]
-
-
-
 
 def normalize_points(pts):
     mean = np.mean(pts, axis=0)
@@ -122,7 +117,8 @@ for t in TARGET_IMGS:
         src_pts = np.float32(pts1_scaled).reshape(-1, 2)
         dst_pts = np.float32(pts2_scaled).reshape(-1, 2)
         
-        H_global, mask = cv2.findHomography(dst_pts, src_pts, cv2.RANSAC, 5.0)
+        # 📍 關鍵修改：將 RANSAC 門檻從 5.0 放寬到 20.0，保留帶有視差的「前景特徵點」給 APAP 使用
+        H_global, mask = cv2.findHomography(dst_pts, src_pts, cv2.RANSAC, 20.0)
         
         if H_global is not None:
             inliers_count = np.sum(mask)
@@ -217,14 +213,14 @@ for t in TARGET_IMGS:
                     cv2.imwrite(os.path.join(OUTPUT_DIR, f"apap_{p_name}_40_vs_{t}.jpg"), canvas)
                     canvases[p_name] = canvas
 
-                # 製作左右對比圖
-                if "Conservative" in canvases and "Aggressive" in canvases:
-                    img_c = canvases["Conservative"].copy()
-                    img_a = canvases["Aggressive"].copy()
+                # 📍 關鍵修改：修復比對 Bug，正確抓取 Rigid 和 Extreme_Jelly 的畫布
+                if "Rigid" in canvases and "Extreme_Jelly" in canvases:
+                    img_c = canvases["Rigid"].copy()
+                    img_a = canvases["Extreme_Jelly"].copy()
                     
                     # 加上明顯的標題文字
-                    cv2.putText(img_c, "Conservative (Global-like)", (40, 60), cv2.FONT_HERSHEY_SIMPLEX, 2.0, APAP_CONFIGS[0]["color"], 5)
-                    cv2.putText(img_a, "Aggressive (Local Warp)", (40, 60), cv2.FONT_HERSHEY_SIMPLEX, 2.0, APAP_CONFIGS[1]["color"], 5)
+                    cv2.putText(img_c, "Rigid (Global-like)", (40, 60), cv2.FONT_HERSHEY_SIMPLEX, 2.0, APAP_CONFIGS[0]["color"], 5)
+                    cv2.putText(img_a, "Extreme Jelly (Local Warp)", (40, 60), cv2.FONT_HERSHEY_SIMPLEX, 2.0, APAP_CONFIGS[1]["color"], 5)
                     
                     # 縮小一半並排，避免檔案過大難以開啟
                     scale_down = 0.5

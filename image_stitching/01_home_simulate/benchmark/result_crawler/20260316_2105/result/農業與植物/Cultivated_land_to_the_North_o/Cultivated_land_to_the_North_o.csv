@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land_to_the_North_of_Heath_Road_-_geograph.org.uk_-_4425185.jpg,SIFT,689.8346,0.9345570395551734,3.830625363725089,0.9997249246568889
+農業與植物,Cultivated_land_to_the_North_of_Heath_Road_-_geograph.org.uk_-_4425185.jpg,ORB,521.9326,0.9628547208969683,12.791174051482157,0.9885324563850486
+農業與植物,Cultivated_land_to_the_North_of_Heath_Road_-_geograph.org.uk_-_4425185.jpg,LoFTR,142.94162,0.9829834297046812,1.206975870906941,0.9999049888732923

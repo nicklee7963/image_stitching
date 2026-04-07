@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Boundary_between_scrub_and_agricultural_land_-_geograph.org.uk_-_531028.jpg,SIFT,1.0401248,0.9975481215395503,0.8172677221467495,0.9999939586190107
+農業與植物,Boundary_between_scrub_and_agricultural_land_-_geograph.org.uk_-_531028.jpg,ORB,89.20214,0.9665509457439075,1.4554296150028276,0.9999978217641755
+農業與植物,Boundary_between_scrub_and_agricultural_land_-_geograph.org.uk_-_531028.jpg,LoFTR,62.25115,0.9852470474861632,0.3944319571000989,0.9999989246970428

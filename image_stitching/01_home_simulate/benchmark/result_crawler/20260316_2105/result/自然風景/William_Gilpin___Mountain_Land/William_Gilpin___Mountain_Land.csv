@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,William_Gilpin_-_Mountain_Landscape_-_B1998.32.10(32)_-_Yale_Center_for_British_Art.jpg,SIFT,1221.4265,0.9436132856950785,32.046805206963384,0.9971535535888346
+自然風景,William_Gilpin_-_Mountain_Landscape_-_B1998.32.10(32)_-_Yale_Center_for_British_Art.jpg,ORB,28452.52,0.40745207822516577,132.4997728643585,-0.8892998975597183
+自然風景,William_Gilpin_-_Mountain_Landscape_-_B1998.32.10(32)_-_Yale_Center_for_British_Art.jpg,LoFTR,57.239906,0.9814706786974375,0.8099132423446719,0.9999935494541272

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Farmland_between_East_Land_Ends_and_West_Land_Ends_-_geograph.org.uk_-_2021450.jpg,SIFT,29.058554,0.9932780639927408,1.3651228928648562,0.9998356725481949
+農業與植物,Farmland_between_East_Land_Ends_and_West_Land_Ends_-_geograph.org.uk_-_2021450.jpg,ORB,76.193405,0.9745903143196837,0.8147919577736783,0.9999907089634682
+農業與植物,Farmland_between_East_Land_Ends_and_West_Land_Ends_-_geograph.org.uk_-_2021450.jpg,LoFTR,73.09639,0.9824438064211078,1.1118422897117435,0.9999962836568922

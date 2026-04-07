@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Iceland's_Mid-Atlantic_Ridge_during_snow.jpg,SIFT,20.42344,0.9944822521582577,0.6784901294236807,0.9999958562956736
+自然風景,Iceland's_Mid-Atlantic_Ridge_during_snow.jpg,ORB,186.79399,0.930161303778565,5.654404507677276,0.9977453254524685
+自然風景,Iceland's_Mid-Atlantic_Ridge_during_snow.jpg,LoFTR,87.47155,0.9740093198716597,1.7872134804468405,0.9999661768797449

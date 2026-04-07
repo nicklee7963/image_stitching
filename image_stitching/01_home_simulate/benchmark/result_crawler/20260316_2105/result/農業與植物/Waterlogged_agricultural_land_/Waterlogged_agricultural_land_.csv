@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Waterlogged_agricultural_land_on_the_Ribble_floodplain_-_geograph.org.uk_-_4781239.jpg,SIFT,4.2162056,0.9930932801579127,2.338966329121968,0.9999116237300618
+農業與植物,Waterlogged_agricultural_land_on_the_Ribble_floodplain_-_geograph.org.uk_-_4781239.jpg,ORB,81.07019,0.9689193435804277,4.545609459180086,0.9995589665388532
+農業與植物,Waterlogged_agricultural_land_on_the_Ribble_floodplain_-_geograph.org.uk_-_4781239.jpg,LoFTR,71.02378,0.9768988012856875,2.5987960305784066,0.9999288614717987

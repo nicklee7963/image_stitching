@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_Land_at_Patrick_Brompton_-_geograph.org.uk_-_331011.jpg,SIFT,8.7267275,0.997694438818689,1.5463514923539428,0.9999845086146684
+農業與植物,Agricultural_Land_at_Patrick_Brompton_-_geograph.org.uk_-_331011.jpg,ORB,246.22237,0.9039377496431016,77.708969499475,0.9778758219324845
+農業與植物,Agricultural_Land_at_Patrick_Brompton_-_geograph.org.uk_-_331011.jpg,LoFTR,64.43263,0.9843384786857772,0.5085953440733247,0.9999993651769387

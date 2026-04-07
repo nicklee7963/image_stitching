@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Jacob_Pynas_-_Mountain_landscape_with_Narcissus_(National_Gallery__London).jpg,SIFT,140.9383,0.958537049572531,2.4722862210340693,0.9997816502856314
+自然風景,Jacob_Pynas_-_Mountain_landscape_with_Narcissus_(National_Gallery__London).jpg,ORB,131.94916,0.9718529962949491,0.4274095614929545,0.9999996996470608
+自然風景,Jacob_Pynas_-_Mountain_landscape_with_Narcissus_(National_Gallery__London).jpg,LoFTR,101.01531,0.9840809442838869,0.4101698248871598,0.9999940004074519

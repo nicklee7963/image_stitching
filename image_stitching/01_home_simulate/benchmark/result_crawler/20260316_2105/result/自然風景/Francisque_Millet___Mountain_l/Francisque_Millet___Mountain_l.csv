@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Francisque_Millet_-_Mountain_landscape_with_lightning_(c.1675).jpg,SIFT,65025.0,0.0,500.0,0.0
+自然風景,Francisque_Millet_-_Mountain_landscape_with_lightning_(c.1675).jpg,ORB,22.615753173828125,0.9831069640566921,1.334974696669491,0.8719783133416379
+自然風景,Francisque_Millet_-_Mountain_landscape_with_lightning_(c.1675).jpg,LoFTR,13.564950942993164,0.9886555131134094,0.4523722021000631,0.9948051828559485

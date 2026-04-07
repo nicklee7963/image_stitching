@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Wassily_kandinsky-mountain_landscape_with_lake.jpg,SIFT,41.256786,0.9798822672095445,3.591002371819776,0.9943988855937369
+自然風景,Wassily_kandinsky-mountain_landscape_with_lake.jpg,ORB,132.12437,0.9336167955983917,2.2227332329189613,0.9991560352593553
+自然風景,Wassily_kandinsky-mountain_landscape_with_lake.jpg,LoFTR,116.69925,0.9409478386365283,1.5441424221816977,0.9985463361264744

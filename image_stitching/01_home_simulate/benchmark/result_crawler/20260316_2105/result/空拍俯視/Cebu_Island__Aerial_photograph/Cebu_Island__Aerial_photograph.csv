@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Cebu_Island__Aerial_photography__Sky__Philippines.jpg,SIFT,3.5975296,0.9934402921115447,1.183251561177684,0.9999991635888043
+空拍俯視,Cebu_Island__Aerial_photography__Sky__Philippines.jpg,ORB,10.63777,0.9803234261705485,1.4084304334676327,0.9999100457939338
+空拍俯視,Cebu_Island__Aerial_photography__Sky__Philippines.jpg,LoFTR,6.507241,0.9872249568326854,0.9591315630147327,0.9999829746325541

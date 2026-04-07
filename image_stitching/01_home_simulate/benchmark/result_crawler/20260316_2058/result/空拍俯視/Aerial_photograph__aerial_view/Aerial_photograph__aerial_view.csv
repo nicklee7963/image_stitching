@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_photograph_(aerial_view_or_aerial_shot)_of_a_greenish_hilly_region_of_Manipur_state_(Kangleipak)_taken_from_an_aircraft_02.jpg,SIFT,24.358236,0.9915648799958194,0.31183786302150157,0.9999971864059651
+空拍俯視,Aerial_photograph_(aerial_view_or_aerial_shot)_of_a_greenish_hilly_region_of_Manipur_state_(Kangleipak)_taken_from_an_aircraft_02.jpg,ORB,253.25438,0.9458233410408826,10.206753497497981,0.9888570785153252
+空拍俯視,Aerial_photograph_(aerial_view_or_aerial_shot)_of_a_greenish_hilly_region_of_Manipur_state_(Kangleipak)_taken_from_an_aircraft_02.jpg,LoFTR,69.111046,0.9826292182095091,1.0163078804488355,0.9998864209018044

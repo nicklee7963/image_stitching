@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Cultivated_land_-_Poors_Farm_-_geograph.org.uk_-_1535704.jpg,SIFT,4596.70751953125,0.509071768631152,172.00457231798848,0.8497876853190659
+農業與植物,Cultivated_land_-_Poors_Farm_-_geograph.org.uk_-_1535704.jpg,ORB,65025.0,0.0,500.0,0.0
+農業與植物,Cultivated_land_-_Poors_Farm_-_geograph.org.uk_-_1535704.jpg,LoFTR,184.6211395263672,0.9678272608403728,4.37273172183824,0.9993250398316792

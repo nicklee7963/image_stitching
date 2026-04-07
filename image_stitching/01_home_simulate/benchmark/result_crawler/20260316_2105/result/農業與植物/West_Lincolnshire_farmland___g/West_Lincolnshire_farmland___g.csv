@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,West_Lincolnshire_farmland_-_geograph.org.uk_-_1031649.jpg,SIFT,34.736397,0.9934554306660719,1.1706541433290591,0.9999436558880351
+農業與植物,West_Lincolnshire_farmland_-_geograph.org.uk_-_1031649.jpg,ORB,569.5399,0.8196221765183023,12.017682256419373,0.9951242972451738
+農業與植物,West_Lincolnshire_farmland_-_geograph.org.uk_-_1031649.jpg,LoFTR,249.6549,0.9580915788431023,2.8531650676025784,0.9996561036948107

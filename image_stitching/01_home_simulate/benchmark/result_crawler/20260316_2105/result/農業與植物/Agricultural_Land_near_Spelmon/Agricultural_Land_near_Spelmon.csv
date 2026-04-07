@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_Land_near_Spelmonden_-_geograph.org.uk_-_3954028.jpg,SIFT,1.4159939,0.9966045189000826,0.6324124032149728,0.9999946928654709
+農業與植物,Agricultural_Land_near_Spelmonden_-_geograph.org.uk_-_3954028.jpg,ORB,69.94459,0.9450121830525904,0.8445372548412109,0.9999863297541164
+農業與植物,Agricultural_Land_near_Spelmonden_-_geograph.org.uk_-_3954028.jpg,LoFTR,42.933872,0.9851994167488856,0.42676001775057015,0.9999993906748283

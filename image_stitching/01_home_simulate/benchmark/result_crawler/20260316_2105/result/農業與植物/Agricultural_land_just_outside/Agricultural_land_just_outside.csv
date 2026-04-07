@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_just_outside_Burnham_Overy_Town__Norfolk._-_geograph.org.uk_-_215557.jpg,SIFT,261.3012,0.979354974763222,2.5632894691789425,0.9999621769024333
+農業與植物,Agricultural_land_just_outside_Burnham_Overy_Town__Norfolk._-_geograph.org.uk_-_215557.jpg,ORB,216.35748,0.976238104603421,1.5577450579434067,0.9999984655943729
+農業與植物,Agricultural_land_just_outside_Burnham_Overy_Town__Norfolk._-_geograph.org.uk_-_215557.jpg,LoFTR,269.112,0.9713542591327324,0.39544935669694903,0.9999968535526058

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Water_reflection_of_karst_mountains_at_golden_hour_in_Vang_Vieng_Laos_(panoramic).jpg,SIFT,45.038815,0.990915960368963,1.11839306154174,0.9999142008649913
+自然風景,Water_reflection_of_karst_mountains_at_golden_hour_in_Vang_Vieng_Laos_(panoramic).jpg,ORB,413.9435,0.9497255224214568,4.402407406968372,0.9983460719145365
+自然風景,Water_reflection_of_karst_mountains_at_golden_hour_in_Vang_Vieng_Laos_(panoramic).jpg,LoFTR,511.38818,0.9382599466805795,6.162621032167583,0.9967510003472704

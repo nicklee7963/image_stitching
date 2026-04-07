@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg,SIFT,14.212673,0.9950237521565174,0.8070762987709009,0.9999722063106106
+空拍俯視,001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg,ORB,467.18832,0.9482504134507499,4.913747702654605,0.9998381807324883
+空拍俯視,001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg,LoFTR,195.83308,0.9736706792373441,1.0949042901090118,0.9999888207476328

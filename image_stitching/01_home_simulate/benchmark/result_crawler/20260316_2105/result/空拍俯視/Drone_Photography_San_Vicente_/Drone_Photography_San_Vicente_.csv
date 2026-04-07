@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Drone_Photography_San_Vicente_Reservoir_and_Dam_San_Diego.jpg,SIFT,123.40845,0.9027032048517243,23.18053456763294,0.9913783807777212
+空拍俯視,Drone_Photography_San_Vicente_Reservoir_and_Dam_San_Diego.jpg,ORB,124.64007,0.9198255929412474,6.680884748700442,0.9990432931226001
+空拍俯視,Drone_Photography_San_Vicente_Reservoir_and_Dam_San_Diego.jpg,LoFTR,85.41385,0.9795582370817807,0.562449495858364,0.9999695980507726

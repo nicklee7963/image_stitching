@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Mountains_in_snow__Mountain_lake__Chola_Valley__Nepal__Himalayas.jpg,SIFT,0.66737795,0.9990801077242163,0.18475235235812332,0.9999941028899038
+自然風景,Mountains_in_snow__Mountain_lake__Chola_Valley__Nepal__Himalayas.jpg,ORB,100.011246,0.9793963640997658,1.0219320926545217,0.9997333905338387
+自然風景,Mountains_in_snow__Mountain_lake__Chola_Valley__Nepal__Himalayas.jpg,LoFTR,118.9418,0.9611732900600224,4.207618304999414,0.9941930715463079

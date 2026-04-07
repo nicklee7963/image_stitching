@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Benjamin_Haughton_(1865-1924)_-_Mountain_Landscape_-_1973-228_-_Portsmouth_Museums_and_Visitor_Services.jpg,SIFT,2.825309,0.9980661956468954,0.2580313406627105,0.9999381330804618
+自然風景,Benjamin_Haughton_(1865-1924)_-_Mountain_Landscape_-_1973-228_-_Portsmouth_Museums_and_Visitor_Services.jpg,ORB,126.07734,0.9698575394666646,0.3998769459166412,0.9999559580148419
+自然風景,Benjamin_Haughton_(1865-1924)_-_Mountain_Landscape_-_1973-228_-_Portsmouth_Museums_and_Visitor_Services.jpg,LoFTR,71.48789,0.9811153744383866,0.46203427502837313,0.9997501792599431

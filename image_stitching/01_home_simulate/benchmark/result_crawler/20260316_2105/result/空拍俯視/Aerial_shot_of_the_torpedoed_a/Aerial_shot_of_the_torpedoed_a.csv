@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+空拍俯視,Aerial_shot_of_the_torpedoed_and_grounded.jpg,SIFT,13.175104,0.9969929027710084,0.3797012421647843,0.9999999628141972
+空拍俯視,Aerial_shot_of_the_torpedoed_and_grounded.jpg,ORB,837.9604,0.9270249409103162,6.431305499531402,0.9999200269804028
+空拍俯視,Aerial_shot_of_the_torpedoed_and_grounded.jpg,LoFTR,116.33954,0.9864560949186049,0.1772715041209551,0.9999989159777481

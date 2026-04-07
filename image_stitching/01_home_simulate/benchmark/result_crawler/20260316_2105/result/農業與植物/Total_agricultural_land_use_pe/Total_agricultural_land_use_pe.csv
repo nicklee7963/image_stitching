@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Total-agricultural-land-use-per-person_(OWID_1037).png,SIFT,30118.639,0.4512344266361309,652.9395613829374,0.99895042122557
+農業與植物,Total-agricultural-land-use-per-person_(OWID_1037).png,ORB,25885.953,0.540593328854797,57.51067432754517,0.9740966155451152
+農業與植物,Total-agricultural-land-use-per-person_(OWID_1037).png,LoFTR,15543.385,0.686787115404282,1262.3228645683726,-0.9993589420773704

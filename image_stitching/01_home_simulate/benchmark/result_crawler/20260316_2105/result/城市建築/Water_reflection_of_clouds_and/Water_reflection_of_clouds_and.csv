@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+城市建築,Water_reflection_of_clouds_and_Luang_Prabang_cityscape_from_Wat_Long_Koon_evening_Laos.jpg,SIFT,426.93695,0.959493310529778,8.101860191850554,0.9984191014077997
+城市建築,Water_reflection_of_clouds_and_Luang_Prabang_cityscape_from_Wat_Long_Koon_evening_Laos.jpg,ORB,2770.0781,0.8397226552006979,35.47698674809306,0.9790929117809383
+城市建築,Water_reflection_of_clouds_and_Luang_Prabang_cityscape_from_Wat_Long_Koon_evening_Laos.jpg,LoFTR,193.93134,0.9627185667515744,4.127133376158103,0.9992862477376265

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Landscape_of_the_mountains_in_Bhutan.jpg,SIFT,54.75818,0.9882194653573766,0.28571307257543854,0.9999920881579158
+自然風景,Landscape_of_the_mountains_in_Bhutan.jpg,ORB,1122.5585,0.8366756595820422,0.5951006166916932,0.9999320856994073
+自然風景,Landscape_of_the_mountains_in_Bhutan.jpg,LoFTR,460.97034,0.932610223267086,5.688547831660522,0.9996588740036373

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+自然風景,Wooden_hut_fence_mountains_and_blue_sky_in_the_green_rice_fields_of_Vang_Vieng_in_Laos.jpg,SIFT,65025.0,0.0,500.0,0.0
+自然風景,Wooden_hut_fence_mountains_and_blue_sky_in_the_green_rice_fields_of_Vang_Vieng_in_Laos.jpg,ORB,364.23284912109375,0.18780911692067276,87.33940090408606,0.28669134718160494
+自然風景,Wooden_hut_fence_mountains_and_blue_sky_in_the_green_rice_fields_of_Vang_Vieng_in_Laos.jpg,LoFTR,146.04022216796875,0.9504349011718817,4.294767448398647,0.9298165360063881

@@ -1,0 +1,4 @@
+﻿Theme,Image_Name,Method,MSE,SSIM,Frobenius,Cosine
+農業與植物,Agricultural_land_just_to_east_of_Abbotts_Farm_-_geograph.org.uk_-_2073868.jpg,SIFT,473.89786,0.6595845182826154,546.7742103498128,-0.6162906240680123
+農業與植物,Agricultural_land_just_to_east_of_Abbotts_Farm_-_geograph.org.uk_-_2073868.jpg,ORB,416.02036,0.6593877526690939,176.17262493834824,0.45368346707262697
+農業與植物,Agricultural_land_just_to_east_of_Abbotts_Farm_-_geograph.org.uk_-_2073868.jpg,LoFTR,677.2365,0.5159663760841082,764.2319058588392,-0.9909488094296607
